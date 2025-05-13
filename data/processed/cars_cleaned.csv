@@ -1,0 +1,721 @@
+carName,brand,model,category,manufactureYear,licensePlate,price,count,status,color,specifications,imageUrl,warrantyPeriod,number_of_seats,fuel,gear
+LYNK & CO 09 HALO,09,& CO 09 HALO,Other,2025,,2199000000,1,Available,White,,,12,5,Petrol,số tự động
+LYNK & CO 01 2.0 TURBO,01,& CO 01 2.0 TURBO,Other,2025,,999000000,1,Available,xanh,,,12,5,Petrol,số tự động
+LYNK & CO 05 HYPER HALO,05,& CO 05 HYPER HALO,Other,2025,,1599000000,1,Available,Black,,,12,5,Petrol,số tự động
+Lynk & Co 06 NEW 100% Model 2025,06,& Co 06 NEW 100% Model 2025,Other,2024,,729000000,1,Available,White,,,12,5,Petrol,số tự động
+"Lynk & Co 06 1.5 Turbo, Mới 100% Model 2025",06,"& Co 06 1.5 Turbo, Mới 100% Model 2025",Other,2024,,729000000,1,Available,hồng,,,12,5,Petrol,số tự động
+Lynk & Co 01 Hyper Black - NEW 100%,01,& Co 01 Hyper Black - NEW 100%,Other,2024,,999000000,1,Available,Black,,,12,5,Petrol,số tự động
+Lynk & Co 01 Louder  SẴN GIAO NGAY - NEW 100%,06,& Co 01 Louder SẴN GIAO NGAY - NEW 100%,Other,2024,,999000000,1,Available,White,,,12,5,Petrol,số tự động
+LYNK & CO 01 SẴN GIAO NGAY - NEW 100%,01,& CO 01 SẴN GIAO NGAY - NEW 100%,Other,2025,,999000000,1,Available,White,,,12,5,Petrol,số tự động
+LYNK & CO 06 TRẮNG - XE ĐÔ THỊ - NEW 100%,06,& CO 06 TRẮNG - XE ĐÔ THỊ - NEW 100%,Other,2025,,729000000,1,Available,White,,,12,5,Petrol,số tự động
+LYNK & CO 06 1.5 TURBO 2025,06,& CO 06 1.5 TURBO 2025,Other,2025,,729000000,1,Available,xanh,,,12,5,Petrol,số tự động
+HYUNDAI MIGHTY W750 EURO 5,W750,MIGHTY W750 EURO 5,Other,2025,,715000000,1,Available,xanh,,,12,5,Diesel,Manual
+LYNK & CO 06 HYPER,06,& CO 06 HYPER,Other,2024,,729000000,1,Available,hồng,,,12,5,Petrol,số tự động
+LYNK & CO 06 1.5 TURBO 2025,06,& CO 06 1.5 TURBO 2025,Other,2025,,729000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI SOLATI EURO 5 16 CHỖ,Solati,SOLATI EURO 5 16 CHỖ,Other,2025,,1040000000,1,Available,White,,,12,5,Diesel,Manual
+SUZUKI XL7 HYBRID MÀU XÁM 2025 - 7 CHỖ - NHẬP KHẨU - ĐỘNG CƠ MỚI,XL7,XL7 HYBRID MÀU XÁM 2025 - 7 CHỖ - NHẬP KHẨU - ĐỘNG CƠ MỚI,Other,2025,,599900000,1,Available,xám,,,12,5,Petrol,số tự động
+LYNK & CO 06 1.5 TURBO 2025,06,& CO 06 1.5 TURBO 2025,Other,2025,,729000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI SOLATI EURO 5 16 CHỖ,Solati,SOLATI EURO 5 16 CHỖ,Other,2025,,1040000000,1,Available,White,,,12,5,Diesel,Manual
+SUZUKI XL7 HYBRID MÀU XÁM 2025 - 7 CHỖ - NHẬP KHẨU - ĐỘNG CƠ MỚI,XL7,XL7 HYBRID MÀU XÁM 2025 - 7 CHỖ - NHẬP KHẨU - ĐỘNG CƠ MỚI,Other,2025,,599900000,1,Available,xám,,,12,5,Petrol,số tự động
+SUZUKI XL7 HYBRID MÀU CAM - 7 CHỖ - NHẬP KHẨU - QUÀ TẶNG HƠN 65 TRIỆU,XL7,XL7 HYBRID MÀU CAM - 7 CHỖ - NHẬP KHẨU - QUÀ TẶNG HƠN 65 TRIỆU,Other,2024,,607900000,1,Available,cam,,,12,5,Petrol,số tự động
+"SUZUKI JIMNY 2024 TRẮNG, TẶNG PHỤ KIỆN, 2 CẦU, 4 CHỖ CHUYÊN OFFROAD",XL7,"JIMNY 2024 TRẮNG, TẶNG PHỤ KIỆN, 2 CẦU, 4 CHỖ CHUYÊN OFFROAD",Other,2024,,789000000,1,Available,White,,,12,5,Petrol,số tự động
+SUZUKI JIMNY 2024 MÀU ĐEN CỰC NGẦU - 2 CẦU CHUYÊN OFFROAD,XL7,JIMNY 2024 MÀU ĐEN CỰC NGẦU - 2 CẦU CHUYÊN OFFROAD,Other,2024,,789000000,1,Available,Black,,,12,5,Petrol,số tự động
+SUZUKI XL7 HYBRID XANH KHAKI 2024 - 7 CHỖ - NHẬP KHẨU - ƯU ĐÃI NGAY 65 TRIỆU,XL7,XL7 HYBRID XANH KHAKI 2024 - 7 CHỖ - NHẬP KHẨU - ƯU ĐÃI NGAY 65 TRIỆU,Other,2024,,599900000,1,Available,xanh,,,12,5,Petrol,số tự động
+SUZUKI JIMNY 2024 VÀNG NÓC ĐEN - CHUYÊN OFFROAD - 2 CẦU,XL7,JIMNY 2024 VÀNG NÓC ĐEN - CHUYÊN OFFROAD - 2 CẦU,Other,2024,,799000000,1,Available,vàng,,,12,5,Petrol,số tự động
+FORD FOCUS SPORT 1.5L ECOBOOST 2017,Focus,FOCUS SPORT 1.5L ECOBOOST 2017,Other,2017,,455000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD EVEREST TITANIUM 4X2 2019,Everest,EVEREST TITANIUM 4X2 2019,Other,2019,,860000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD TOURNEO TITA LIMOUSINE 2020,Tourneo,TOURNEO TITA LIMOUSINE 2020,Other,2020,,785000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD ECOSPORT TITANIUM 1.5L 2017,Ecosport,ECOSPORT TITANIUM 1.5L 2017,Other,2017,,365000000,1,Available,xám,,,12,5,Petrol,số tự động
+LYNK & CO 01 2.0 TURBO - MỚI 100% - TRẮNG - 2024,01,& CO 01 2.0 TURBO - MỚI 100% - TRẮNG - 2024,Other,2024,,949050000,1,Available,White,,,12,5,Petrol,số tự động
+LYNK & CO 06 1.5 TURBO - MỚI 100% - XANH SONIC- 2024,06,& CO 06 1.5 TURBO - MỚI 100% - XANH SONIC- 2024,Other,2024,,692550000,1,Available,xanh,,,12,5,Petrol,số tự động
+LYNK & CO 03+ - 2025 - MỚI 100% - VÀNG,03,& CO 03+ - 2025 - MỚI 100% - VÀNG,Other,2025,,1899000000,1,Available,vàng,,,12,5,Petrol,số tự động
+LYNK & CO 01 2.0 TURBO - MỚI 100% - TRẮNG - 2024,01,& CO 01 2.0 TURBO - MỚI 100% - TRẮNG - 2024,Other,2024,,949050000,1,Available,White,,,12,5,Petrol,số tự động
+LYNK & CO 06 1.5 TURBO - MỚI 100% - XANH SONIC- 2024,06,& CO 06 1.5 TURBO - MỚI 100% - XANH SONIC- 2024,Other,2024,,692550000,1,Available,xanh,,,12,5,Petrol,số tự động
+LYNK & CO 03+ - 2025 - MỚI 100% - VÀNG,03,& CO 03+ - 2025 - MỚI 100% - VÀNG,Other,2025,,1899000000,1,Available,vàng,,,12,5,Petrol,số tự động
+LYNK & CO 01 - 2024 - MỚI 100% - XÁM,01,& CO 01 - 2024 - MỚI 100% - XÁM,Other,2024,,999000000,1,Available,xám,,,12,5,Petrol,số tự động
+LYNK & CO 05 - 2024 - MỚI 100% - ĐEN,05,& CO 05 - 2024 - MỚI 100% - ĐEN,Other,2024,,1599000000,1,Available,Black,,,12,5,Petrol,số tự động
+LYNK & CO 06 1.5 TURBO,06,& CO 06 1.5 TURBO,Other,2024,,692550000,1,Available,bạc,,,12,5,Petrol,số tự động
+LYNK & CO 06 - 2024 - MỚI 100% - XÁM,06,& CO 06 - 2024 - MỚI 100% - XÁM,Other,2024,,729000000,1,Available,xám,,,12,5,Petrol,số tự động
+FORD RANGER RAPTOR 2.0L 4WD AT 2025 XÁM,Ranger,RANGER RAPTOR 2.0L 4WD AT 2025 XÁM,Other,2025,,1036000000,1,Available,xám,,,12,5,Diesel,số tự động
+FORD RANGER RAPTOR 2024 ĐỎ CAM,Ranger,RANGER RAPTOR 2024 ĐỎ CAM,Other,2024,,1306000000,1,Available,Red,,,12,5,Diesel,số tự động
+ FORD EVEREST SPORT 4X2 AT 2025 ĐEN,Everest,EVEREST SPORT 4X2 AT 2025 ĐEN,Other,2025,,1178000000,1,Available,Black,,,12,5,Diesel,số tự động
+FORD EXPLORER LIMITED 2.3L ECOBOOST I4 AT 2025 TRẮNG,Explorer,EXPLORER LIMITED 2.3L ECOBOOST I4 AT 2025 TRẮNG,Other,2025,,1999000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD RANGER XLS 2.0L 4X4 AT 2025 MÀU ĐỎ CAM,Ranger,RANGER XLS 2.0L 4X4 AT 2025 MÀU ĐỎ CAM,Other,2025,,777600000,1,Available,Red,,,12,5,Diesel,số tự động
+FORD RANGER WILDTRAK 2.0L AT 4X4 2025 ĐỎ,Ranger,RANGER WILDTRAK 2.0L AT 4X4 2025 ĐỎ,Other,2025,,986000000,1,Available,Red,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM+ 2.0L 4X4 AT 2025 TRẮNG,Everest,EVEREST TITANIUM+ 2.0L 4X4 AT 2025 TRẮNG,Other,2025,,1475000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD RANGER XLS 2.0L 4x2 AT 2025 TRẮNG,Ranger,RANGER XLS 2.0L 4x2 AT 2025 TRẮNG,Other,2025,,707000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD RANGER WILDTRAK 2.0L AT 4X4 2025 ĐỎ,Ranger,RANGER WILDTRAK 2.0L AT 4X4 2025 ĐỎ,Other,2025,,986000000,1,Available,Red,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM+ 2.0L 4X4 AT 2025 TRẮNG,Everest,EVEREST TITANIUM+ 2.0L 4X4 AT 2025 TRẮNG,Other,2025,,1475000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD RANGER XLS 2.0L 4x2 AT 2025 TRẮNG,Ranger,RANGER XLS 2.0L 4x2 AT 2025 TRẮNG,Other,2025,,707000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD EVEREST SPORT SE 2025 MÀU TRẮNG TUYẾT,Everest,EVEREST SPORT SE 2025 MÀU TRẮNG TUYẾT,Other,2025,,1199900000,1,Available,White,,,12,5,Diesel,số tự động
+FORD TRANSIT PREMIUM 2025 BẠC,Transit,TRANSIT PREMIUM 2025 BẠC,Other,2025,,1091000000,1,Available,bạc,,,12,5,Diesel,Manual
+FORD RANGER STORMTRAK 2025 BẠC,Ranger,RANGER STORMTRAK 2025 BẠC,Other,2025,,1039000000,1,Available,bạc,,,12,5,Diesel,số tự động
+FORD RANGER XLS 2.0L 4X4 AT 2025 TRẮNG,Ranger,RANGER XLS 2.0L 4X4 AT 2025 TRẮNG,Other,2025,,776000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD RANGER XLS 2.0L 4X4 AT 2025 ĐEN,Ranger,RANGER XLS 2.0L 4X4 AT 2025 ĐEN,Other,2025,,776000000,1,Available,Black,,,12,5,Diesel,số tự động
+FORD TRANSIT CỨU THƯƠNG HOÁN CẢI 2025 - MÀU TRẮNG,Transit,TRANSIT CỨU THƯƠNG HOÁN CẢI 2025 - MÀU TRẮNG,Other,2025,,1057000000,1,Available,White,,,12,5,Diesel,Manual
+FORD RANGER SPORT 2.0L 4X4 AT 2025 MÀU ĐỎ,Ranger,RANGER SPORT 2.0L 4X4 AT 2025 MÀU ĐỎ,Other,2025,,871000000,1,Available,Red,,,12,5,Diesel,số tự động
+FORD TERRITORY SPORT 1.5L AT 2024 ĐEN,Territory,TERRITORY SPORT 1.5L AT 2024 ĐEN,Other,2024,,869000000,1,Available,Black,,,12,5,Petrol,số tự động
+FORD RANGER WILDTRAK  2.0L 4X4 AT 2025 VÀNG,Ranger,RANGER WILDTRAK 2.0L 4X4 AT 2025 VÀNG,Other,2025,,986000000,1,Available,vàng,,,12,5,Diesel,số tự động
+FORD TERRITORY TITANIUM X 1.5 AT 2025 ĐỎ,Territory,TERRITORY TITANIUM X 1.5 AT 2025 ĐỎ,Other,2025,,889000000,1,Available,Red,,,12,5,Petrol,số tự động
+FORD TERRITORY TITANIUM X 1.5 AT 2025 NÂU,Territory,TERRITORY TITANIUM X 1.5 AT 2025 NÂU,Other,2025,,889000000000,1,Available,nâu,,,12,5,Petrol,số tự động
+VOLVO XC90 PLUG-IN HYBRID ULTRA,XC90,XC90 PLUG-IN HYBRID ULTRA,Other,2025,,4370000000,1,Available,,,,12,5,plug-in hybrid ,số tự động
+FORD TERRITORY TITANIUM X 1.5 AT 2025 ĐỎ,Territory,TERRITORY TITANIUM X 1.5 AT 2025 ĐỎ,Other,2025,,889000000,1,Available,Red,,,12,5,Petrol,số tự động
+FORD TERRITORY TITANIUM X 1.5 AT 2025 NÂU,Territory,TERRITORY TITANIUM X 1.5 AT 2025 NÂU,Other,2025,,889000000000,1,Available,nâu,,,12,5,Petrol,số tự động
+VOLVO XC90 PLUG-IN HYBRID ULTRA,XC90,XC90 PLUG-IN HYBRID ULTRA,Other,2025,,4370000000,1,Available,,,,12,5,plug-in hybrid ,số tự động
+FORD TERRITORY SPORT,Territory,TERRITORY SPORT,Other,2024,,869000000,1,Available,White,,,12,5,Petrol,số tự động
+LYNK & CO 06 2024 - ĐÀ LẠT,06,& CO 06 2024 - ĐÀ LẠT,Other,2024,,729000000,1,Available,hồng,,,12,5,Petrol,số tự động
+Ford Territory Titanium Mới,Territory,Territory Titanium Mới,Other,2025,,849000000,1,Available,White,,,12,5,Petrol,số tự động
+Ford Territory Trend 2025,Territory,Territory Trend 2025,Other,2025,,759000000,1,Available,xám,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE ULTIMATE - 2025,Xforce ,XFORCE ULTIMATE - 2025,Other,2025,,710000000,1,Available,Red,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER PREMIUM 2025,Xpander,XPANDER PREMIUM 2025,Other,2025,,658000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE MT 2025,Attrage,ATTRAGE MT 2025,Other,2025,,334000000,1,Available,White,,,12,5,Petrol,Manual
+MITSUBISHI TRITON GLX 2025,Triton,TRITON GLX 2025,Other,2025,,625000000,1,Available,xám,,,12,5,Diesel,số tự động
+MITSUBISHI ATTRAGE PREMIUM 2025,Attrage,ATTRAGE PREMIUM 2025,Other,2025,,445000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE ULTIMATE - 2025,Xforce ,XFORCE ULTIMATE - 2025,Other,2025,,660000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE GLX 2025,Xforce ,XFORCE GLX 2025,Other,2025,,569000000,1,Available,,,,12,5,Petrol,số tự động
+INNOVA CROSS HYBIRD 2024 TRẮNG NGỌC TRAI,Innova Cross,CROSS HYBIRD 2024 TRẮNG NGỌC TRAI,Other,2024,,998000000,1,Available,White,,,12,5,hybrid,số tự động
+MITSUBISHI XFORCE ULTIMATE - 2025,Xforce ,XFORCE ULTIMATE - 2025,Other,2025,,660000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE GLX 2025,Xforce ,XFORCE GLX 2025,Other,2025,,569000000,1,Available,,,,12,5,Petrol,số tự động
+INNOVA CROSS HYBIRD 2024 TRẮNG NGỌC TRAI,Innova Cross,CROSS HYBIRD 2024 TRẮNG NGỌC TRAI,Other,2024,,998000000,1,Available,White,,,12,5,hybrid,số tự động
+XPANDER CROSS TRẮNG 2025,Xpander Cross,CROSS TRẮNG 2025,Other,2025,,698000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM MÀU TRẮNG NĂM 2025,Coolray,COOLRAY PREMIUM MÀU TRẮNG NĂM 2025,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+TRITON 4x4 ATHLETE 2025 CAM ĐEN,Triton,4x4 ATHLETE 2025 CAM ĐEN,Other,2025,,924000000,1,Available,cam,,,12,5,Diesel,số tự động
+ATTRAGE CVT PREMIUM 2025,Attrage,CVT PREMIUM 2025,Other,2025,,490000000,1,Available,White,,,12,5,Petrol,số tự động
+XPANDER PREMIUM TRẮNG 2025,Xpander,PREMIUM TRẮNG 2025,Other,2025,,658000000,1,Available,White,,,12,5,Petrol,số tự động
+HONDA HR-V L 2025,HR-V,HR-V L 2025,Other,2025,,750000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA HR-V RS 2025,HR-V,HR-V RS 2025,Other,2025,,869000000,1,Available,,,,12,5,hybrid,số tự động
+TOYOTA YARIS CROSS 2025,Yaris Cross,YARIS CROSS 2025,Other,2025,,650000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA VIOS G 2025,Vios,VIOS G 2025,Other,2025,,545000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 - MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 - MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU CAM,Coolray,COOLRAY PREMIUM 2025 MÀU CAM,Other,2025,,578000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 - MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 - MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU CAM,Coolray,COOLRAY PREMIUM 2025 MÀU CAM,Other,2025,,578000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Coolray,COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Other,2025,,628000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU BẠC,Coolray,COOLRAY PREMIUM 2025 MÀU BẠC,Other,2025,,578000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 - MÀU TRẮNG,Coolray,COOLRAY STANDAR 2025 - MÀU TRẮNG,Other,2025,,538000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU XÁM,Coolray,COOLRAY STANDAR 2025 MÀU XÁM,Other,2025,,538000000,1,Available,xám,,,12,5,Petrol,số tự động
+Honda HR-V G 2025,HR-V,HR-V G 2025,Other,2025,,699000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA VELOZ TOP 2025,Veloz Cross,VELOZ TOP 2025,Other,2025,,660000000,1,Available,bạc,,,12,5,Petrol,số tự động
+TOYOTA RAIZE 2025,Raize,RAIZE 2025,Other,2025,,510000000,1,Available,Red,,,12,5,Petrol,số tự động
+Hyundai Venue 2025 Đà Nẵng,Venue,Venue 2025 Đà Nẵng,Other,2025,,492000000,1,Available,Red,,,12,5,Petrol,số tự động
+Hyundai Grand i10 2025 Đà Nẵng,i10,Grand i10 2025 Đà Nẵng,Other,2025,,413000000,1,Available,White,,,12,5,Petrol,số tự động
+HONDA CR-V L AWD 2025,CR-V,CR-V L AWD 2025,Other,2025,,1250000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA CITY RS 2025,City,CITY RS 2025,Other,2025,,569000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA BR-V G 2025,BR-V,BR-V G 2025,Other,2024,,629000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA CR-V L AWD 2025,CR-V,CR-V L AWD 2025,Other,2025,,1250000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA CITY RS 2025,City,CITY RS 2025,Other,2025,,569000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA BR-V G 2025,BR-V,BR-V G 2025,Other,2024,,629000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA CITY G 2025,City,CITY G 2025,Other,2025,,499000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA CITY L 2025,City,CITY L 2025,Other,2025,,539000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA CIVIC G 2025,Civic,CIVIC G 2025,Other,2024,,789000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA CIVIC RS 2025,Civic,CIVIC RS 2025,Other,2024,,889000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA CIVIC E:HEV RS 2025,Civic,CIVIC E:HEV RS 2025,Other,2024,,999000000,1,Available,,,,12,5,hybrid,số tự động
+HONDA CR-V e: HEV RS 2025,CR-V,CR-V e: HEV RS 2025,Other,2024,,1259000000,1,Available,,,,12,5,hybrid,số tự động
+HONDA CR-V L 2025,CR-V,CR-V L 2025,Other,2025,,1099000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA BR-V L 2025,BR-V,BR-V L 2025,Other,2024,,705000000,1,Available,,,,12,5,Petrol,số tự động
+HONDA ACCORD CVT 2025,Accord,ACCORD CVT 2025,Other,2024,,1319000000,1,Available,,,,12,5,Petrol,số tự động
+Hyundai Santafe 2025 Đà Nẵng - LH ; Mr Phương,Santa Fe,Santafe 2025 Đà Nẵng - LH ; Mr Phương,Other,2025,,1049000000,1,Available,White,,,12,5,Petrol,số tự động
+Hyundai Tucson 2025 Đà Nẵng,Tucson,Tucson 2025 Đà Nẵng,Other,2025,,769000000,1,Available,White,,,12,5,Petrol,số tự động
+Hyundai accent 2025 Đà Nẵng,Accent,accent 2025 Đà Nẵng,Other,2025,,464000000,1,Available,Red,,,12,5,Petrol,số tự động
+Hyundai Santafe 2025 Đà Nẵng - LH ; Mr Phương,Santa Fe,Santafe 2025 Đà Nẵng - LH ; Mr Phương,Other,2025,,1049000000,1,Available,White,,,12,5,Petrol,số tự động
+Hyundai Tucson 2025 Đà Nẵng,Tucson,Tucson 2025 Đà Nẵng,Other,2025,,769000000,1,Available,White,,,12,5,Petrol,số tự động
+Hyundai accent 2025 Đà Nẵng,Accent,accent 2025 Đà Nẵng,Other,2025,,464000000,1,Available,Red,,,12,5,Petrol,số tự động
+XPANDER PREMIUM 2022 ĐEN,Xpander,PREMIUM 2022 ĐEN,Other,2022,,550000000,1,Available,Black,,,12,5,Petrol,số tự động
+HYUNDAI GRAND I10 1.2 AT 2025,i10,GRAND I10 1.2 AT 2025,Other,2025,,435000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI ACCENT 1.5 CAO CẤP 2024,Accent,ACCENT 1.5 CAO CẤP 2024,Other,2024,,569000000,1,Available,Red,,,12,5,Petrol,số tự động
+XPANDER PREMIUM 2022 TRẮNG,Xpander,PREMIUM 2022 TRẮNG,Other,2022,,555000000,1,Available,White,,,12,5,Petrol,số tự động
+XPANDER AT 2020 BẠC,Xpander,AT 2020 BẠC,Other,2020,,490000000,1,Available,bạc,,,12,5,Petrol,số tự động
+HYUNDAI VENUE 1.0 ĐẶC BIỆT 2025,Venue,VENUE 1.0 ĐẶC BIỆT 2025,Other,2025,,539000000,1,Available,Black,,,12,5,Petrol,số tự động
+HYUNDAI SANTAFE 2.5 PRESTIGE 2024,Santa Fe,SANTAFE 2.5 PRESTIGE 2024,Other,2024,,1265000000,1,Available,nâu,,,12,5,Petrol,số tự động
+HYUNDAI SANTA FE 2.5 PRESTIGE 2025,Santa Fe,SANTA FE 2.5 PRESTIGE 2025,Other,2025,,1265000000,1,Available,Red,,,12,5,Petrol,số tự động
+XPANDER PREMIUM 2022 ĐEN,Xpander,PREMIUM 2022 ĐEN,Other,2022,,550000000,1,Available,Black,,,12,5,Petrol,số tự động
+HYUNDAI TUCSON XĂNG ĐẶC BIỆT TRẮNG,Tucson,TUCSON XĂNG ĐẶC BIỆT TRẮNG,Other,2025,,859000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI CRETA 1.5 ĐẶC BIỆT ĐEN,Creta,CRETA 1.5 ĐẶC BIỆT ĐEN,Other,2025,,650000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER CAO CẤP 2025 TRẮNG,Stargazer,STARGAZER CAO CẤP 2025 TRẮNG,Other,2024,,579000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI TUCSON XĂNG ĐẶC BIỆT TRẮNG,Tucson,TUCSON XĂNG ĐẶC BIỆT TRẮNG,Other,2025,,859000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI CRETA 1.5 ĐẶC BIỆT ĐEN,Creta,CRETA 1.5 ĐẶC BIỆT ĐEN,Other,2025,,650000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER CAO CẤP 2025 TRẮNG,Stargazer,STARGAZER CAO CẤP 2025 TRẮNG,Other,2024,,579000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI VENUE 1.0T 2025 TRẮNG,Venue,VENUE 1.0T 2025 TRẮNG,Other,2025,,494000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI SANTA FE PRESTIGE 2024 TRẮNG,Santa Fe,SANTA FE PRESTIGE 2024 TRẮNG,Other,2024,,1215000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI ACCENT 1.5 ĐAC BIET 2025 TRANG,Accent,ACCENT 1.5 ĐAC BIET 2025 TRANG,Other,2025,,519000000,1,Available,White,,,12,5,Petrol,số tự động
+SUZUKI XL7 HYBRID 2025 - 7 CHỖ - NHẬP KHẨU- ƯU ĐÃI HƠN 55 TRIỆU,XL7,XL7 HYBRID 2025 - 7 CHỖ - NHẬP KHẨU- ƯU ĐÃI HƠN 55 TRIỆU,Other,2024,,607900000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA 1.6 ĐẶC BIỆT 2025,Elantra,ELANTRA 1.6 ĐẶC BIỆT 2025,Other,2025,,639000000,1,Available,White,,,12,5,Petrol,số tự động
+"SUZUKI JIMNY 2024 MÀU ĐỎ LIMITED, 2 CẦU, 4 CHỖ, OFFROAD",XL7,"JIMNY 2024 MÀU ĐỎ LIMITED, 2 CẦU, 4 CHỖ, OFFROAD",Other,2024,,799000000,1,Available,Red,,,12,5,Petrol,số tự động
+SUZUKI XL7 HYBRID 2025 7 CHỖ - NHẬP KHẨU - MÀU TRẮNG NGÀ,XL7,XL7 HYBRID 2025 7 CHỖ - NHẬP KHẨU - MÀU TRẮNG NGÀ,Other,2025,,607900000,1,Available,White,,,12,5,Petrol,số tự động
+SUZUKI JIMNY CHUYÊN OFFROAD - 2024 - MÀU TRẮNG NGÀ,XL7,JIMNY CHUYÊN OFFROAD - 2024 - MÀU TRẮNG NGÀ,Other,2024,,789000000,1,Available,White,,,12,5,Petrol,số tự động
+SUZUKI XL7 HYBRID full ĐEN 2025 - 7 CHỖ - NHẬP KHẨU- ƯU ĐÃI HƠN 55 TRIỆU,XL7,XL7 HYBRID full ĐEN 2025 - 7 CHỖ - NHẬP KHẨU- ƯU ĐÃI HƠN 55 TRIỆU,Other,2025,,589900000,1,Available,Black,,,12,5,Petrol,số tự động
+ISUZU NQRME4- 4T9- 5T5,D-Max,NQRME4- 4T9- 5T5,Other,2024,,895000000,1,Available,White,,,12,5,Diesel,Manual
+MITSUBISHI XFORCE ULTIMATE 2025,Xforce ,XFORCE ULTIMATE 2025,Other,2025,,710000000,1,Available,vàng,,,12,5,Petrol,số tự động
+FORD TERRITORY TREND 4X2AT 2025,Territory,TERRITORY TREND 4X2AT 2025,Other,2025,,759000000,1,Available,,,,12,5,Petrol,số tự động
+ISUZU NQRME4- 4T9- 5T5,D-Max,NQRME4- 4T9- 5T5,Other,2024,,895000000,1,Available,White,,,12,5,Diesel,Manual
+MITSUBISHI XFORCE ULTIMATE 2025,Xforce ,XFORCE ULTIMATE 2025,Other,2025,,710000000,1,Available,vàng,,,12,5,Petrol,số tự động
+FORD TERRITORY TREND 4X2AT 2025,Territory,TERRITORY TREND 4X2AT 2025,Other,2025,,759000000,1,Available,,,,12,5,Petrol,số tự động
+ISUZU DMAX PRESTIGE MT 4X2 - 2025,D-Max,DMAX PRESTIGE MT 4X2 - 2025,Other,2025,,650000000,1,Available,bạc,,,12,5,Diesel,Manual
+ISUZU NPR 350-400 TAI TRONG 3490KG - 3990KG -EURO5- 2025,D-Max,NPR 350-400 TAI TRONG 3490KG - 3990KG -EURO5- 2025,Other,2025,,825000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI PALISADE PESTIGE 2025 - ĐEN,Palisade,PALISADE PESTIGE 2025 - ĐEN,Other,2025,,1589000000,1,Available,Black,,,12,5,Diesel,số tự động
+HYUNDAI ACCENT MT 2025 - TRẮNG,Accent,ACCENT MT 2025 - TRẮNG,Other,2025,,439000000,1,Available,White,,,12,5,Petrol,Manual
+HYUNDAI CUSTIN TIÊU CHUẨN 2025 - TRẮNG,Custin,CUSTIN TIÊU CHUẨN 2025 - TRẮNG,Other,2025,,820000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI SANTA FE 2.5T CALLIGRAPHY 2025,Santa Fe,SANTA FE 2.5T CALLIGRAPHY 2025,Other,2025,,1365000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP NĂM 2025 MÀU XANH,Coolray,COOLRAY FLAGSHIP NĂM 2025 MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+HYUNDAI MIGHTY W11SL E5 2025 - THÙNG MUI BẠT,W11SL,MIGHTY W11SL E5 2025 - THÙNG MUI BẠT,Other,2025,,790000000,1,Available,xanh,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY W11XL E5 2025 - THÙNG MUI BẠT,W11XL,MIGHTY W11XL E5 2025 - THÙNG MUI BẠT,Other,2025,,816000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY W11S E5 2025 - THÙNG LỬNG,W11S,MIGHTY W11S E5 2025 - THÙNG LỬNG,Other,2025,,741000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY W11S E5 2025 - THÙNG MUI BẠT,W11S,MIGHTY W11S E5 2025 - THÙNG MUI BẠT,Other,2025,,750000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY W11S E5 2025 - THÙNG KÍN,W11S,MIGHTY W11S E5 2025 - THÙNG KÍN,Other,2025,,753000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY W11S E5 2025 - THÙNG LỬNG,W11S,MIGHTY W11S E5 2025 - THÙNG LỬNG,Other,2025,,741000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY W11S E5 2025 - THÙNG MUI BẠT,W11S,MIGHTY W11S E5 2025 - THÙNG MUI BẠT,Other,2025,,750000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY W11S E5 2025 - THÙNG KÍN,W11S,MIGHTY W11S E5 2025 - THÙNG KÍN,Other,2025,,753000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY EX8 GT S2 2024,EX8,MIGHTY EX8 GT S2 2024,Other,2024,,750000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY W750L E5 2025,W750L,MIGHTY W750L E5 2025,Other,2025,,745000000,1,Available,xanh,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY N250 E5 2025,N250,MIGHTY N250 E5 2025,Other,2025,,532000000,1,Available,xanh,,,12,5,Diesel,Manual
+HYUNDAI MIGHTY N250SL E5 2025,N250SL,MIGHTY N250SL E5 2025,Other,2025,,566000000,1,Available,xanh,,,12,5,Diesel,Manual
+MITSUBISHI XFORCE EXCEED 2024,Xforce ,XFORCE EXCEED 2024,Other,2024,,640000000,1,Available,Black,,,12,5,Petrol,số tự động
+HYUNDAI SOLATI EURO 5 2024,Solati ,SOLATI EURO 5 2024,Other,2025,,1070000000,1,Available,bạc,,,12,5,Diesel,Manual
+LYNK & CO 06 - 2024 - MỚI 100% - XÁM NT ĐEN,06,& CO 06 - 2024 - MỚI 100% - XÁM NT ĐEN,Other,2024,,729000000,1,Available,xám,,,12,5,Petrol,số tự động
+LYNK & CO 06 - 2024 - MỚI 100% - XANH SONIC NỘI THẤT ĐEN,06,& CO 06 - 2024 - MỚI 100% - XANH SONIC NỘI THẤT ĐEN,Other,2024,,729000000,1,Available,xanh,,,12,5,Petrol,số tự động
+LYNK & CO 06 - 2024 - MỚI 100% - HỒNG NỘI THẤT KEM,06,& CO 06 - 2024 - MỚI 100% - HỒNG NỘI THẤT KEM,Other,2024,,729000000,1,Available,hồng,,,12,5,Petrol,số tự động
+LYNK & CO 05 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,05,& CO 05 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,Other,2024,,1599000000,1,Available,White,,,12,5,Petrol,số tự động
+LYNK & CO 06 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,06,& CO 06 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,Other,2024,,729000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP MÀU BẠC NĂM 2025,Coolray,COOLRAY FLAGSHIP MÀU BẠC NĂM 2025,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+LYNK & CO 05 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,05,& CO 05 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,Other,2024,,1599000000,1,Available,White,,,12,5,Petrol,số tự động
+LYNK & CO 06 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,06,& CO 06 - 2024 - MỚI 100% - TRẮNG NỘI THẤT ĐEN,Other,2024,,729000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP MÀU BẠC NĂM 2025,Coolray,COOLRAY FLAGSHIP MÀU BẠC NĂM 2025,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP MÀU BẠC NĂM 2025,Coolray,COOLRAY FLAGSHIP MÀU BẠC NĂM 2025,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+Corolla Cross 1.8HV,Corolla Cross,Cross 1.8HV,Other,2025,,905000000,1,Available,White,,,12,5,hybrid,số tự động
+YARIS CROSS HEV,Yaris,CROSS HEV,Other,2025,,765000000,1,Available,White,,,12,5,hybrid,số tự động
+Yaris Cross 2025,Yaris,Cross 2025,Other,2025,,650000000,1,Available,White,,,12,5,Petrol,số tự động
+Corolla Cross 1.8V,Corolla Cross,Cross 1.8V,Other,2025,,820000000,1,Available,White,,,12,5,Petrol,số tự động
+Toyota Veloz CVT Top,Veloz Cross,Veloz CVT Top,Other,2025,,660000000,1,Available,White,,,12,5,Petrol,số tự động
+Toyota Veloz CVT,Veloz Cross,Veloz CVT,Other,2025,,638000000,1,Available,White,,,12,5,Petrol,số tự động
+XE TẢI ISUZU QKR270 EURO5 2T49-2T79- 2025,D-Max,TẢI ISUZU QKR270 EURO5 2T49-2T79- 2025,Other,2025,,660000000,1,Available,,,,12,5,Diesel,Manual
+GEELY COOLRAY PREMIUM MÀU TRẮNG NĂM 2025,Coolray,COOLRAY PREMIUM MÀU TRẮNG NĂM 2025,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER CROSS 2025,Xpander Cross,XPANDER CROSS 2025,Other,2025,,698000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,Coolray,COOLRAY FLAGSHIP 2025 MÀU BẠC,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE PREMIUM 2025,Xforce ,XFORCE PREMIUM 2025,Other,2025,,680000000,1,Available,Black,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER CROSS 2025,Xpander Cross,XPANDER CROSS 2025,Other,2025,,698000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,Coolray,COOLRAY FLAGSHIP 2025 MÀU BẠC,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE PREMIUM 2025,Xforce ,XFORCE PREMIUM 2025,Other,2025,,680000000,1,Available,Black,,,12,5,Petrol,số tự động
+ISUZU DMAX PRESTIGE 4X2 AT- 2025,D-Max,DMAX PRESTIGE 4X2 AT- 2025,Other,2025,,681000000,1,Available,White,,,12,5,Diesel,số tự động
+XE TẢI ISUZU QKR210-1Tấn9 EURO5 -2025,D-Max,TẢI ISUZU QKR210-1Tấn9 EURO5 -2025,Other,2025,,660000000,1,Available,White,,,12,5,Diesel,Manual
+HYUNDAI CUSTIN TIÊU CHUẨN 2025 - ĐEN,Custin,CUSTIN TIÊU CHUẨN 2025 - ĐEN,Other,2025,,820000000,1,Available,Black,,,12,5,Petrol,số tự động
+HYUNDAI VENUE TIÊU CHUẨN 2025 - TRẮNG,Venue,VENUE TIÊU CHUẨN 2025 - TRẮNG,Other,2025,,499000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI VENUE 1.0T ĐẶC BIỆT  2025 - TRẮNG,Venue,VENUE 1.0T ĐẶC BIỆT 2025 - TRẮNG,Other,2025,,539000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI CRETA ĐẶC BIỆT 2025 - XÁM,Creta,CRETA ĐẶC BIỆT 2025 - XÁM,Other,2025,,650000000,1,Available,xám,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT PREMIUM 2025,Xpander,XPANDER AT PREMIUM 2025,Other,2025,,658000000,1,Available,bạc,,,12,5,Petrol,số tự động
+MITSUBISSHI XFORCE ULTIMATE 2025,Xforce ,XFORCE ULTIMATE 2025,Other,2025,,710000000,1,Available,Red,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE ULTIMATE 2025,Xforce ,XFORCE ULTIMATE 2025,Other,2025,,705000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER X 1.5 CAO CẤP 2024,Stargazer,STARGAZER X 1.5 CAO CẤP 2024,Other,2024,,599000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER X 1.5 CAO CẤP 2024,Stargazer,STARGAZER X 1.5 CAO CẤP 2024,Other,2024,,599000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU CAM,Coolray,COOLRAY STANDAR 2025 MÀU CAM,Other,2025,,538000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,Coolray,COOLRAY FLAGSHIP 2025 MÀU BẠC,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+TOYOTA INNOVA 2025 ,Innova,INNOVA 2025,Other,2025,,810000000,1,Available,Black,,,12,5,hybrid,số tự động
+TOYOTA COROLLA CROSS 2025 ,Corolla Cross,COROLLA CROSS 2025,Other,2025,,820000000,1,Available,,,,12,5,hybrid,số tự động
+TOYOTA VIOS 2025 ,Vios,VIOS 2025,Other,2025,,458000000,1,Available,White,,,12,5,Petrol,Manual
+TOYOTA FORTUNER 2025 ,Fortuner,FORTUNER 2025,Other,2025,,1055000000,1,Available,White,,,12,5,Diesel,số tự động
+MITSUBISHI XPANDER AT PREMIUM 2025,Xpander,XPANDER AT PREMIUM 2025,Other,2025,,658000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI GRAND I10 HATCHBACK 2025 - ĐỎ,i10,GRAND I10 HATCHBACK 2025 - ĐỎ,Hatchback,2025,,435000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,Coolray,COOLRAY PREMIUM 2025 MÀU ĐỎ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+MITSUBISHI TRITON UT GLX 4X2 AT 2025,Triton,TRITON UT GLX 4X2 AT 2025,Other,2025,,655000000,1,Available,xám,,,12,5,Diesel,số tự động
+MITSUBISHI ATTRAGE MT 2025,Attrage,ATTRAGE MT 2025,Other,2025,,380000000,1,Available,White,,,12,5,Petrol,Manual
+HYUNDAI CUSTIN 1.5 ĐẶC BIỆT 2025,Custin,CUSTIN 1.5 ĐẶC BIỆT 2025,Other,2025,,915000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI TRITON UT GLX 4X2 AT 2025,Triton,TRITON UT GLX 4X2 AT 2025,Other,2025,,655000000,1,Available,xám,,,12,5,Diesel,số tự động
+MITSUBISHI ATTRAGE MT 2025,Attrage,ATTRAGE MT 2025,Other,2025,,380000000,1,Available,White,,,12,5,Petrol,Manual
+HYUNDAI CUSTIN 1.5 ĐẶC BIỆT 2025,Custin,CUSTIN 1.5 ĐẶC BIỆT 2025,Other,2025,,915000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD 2025 - MÀU XÁM GÓC CẠNH,Coolray,COOLRAY STANDARD 2025 - MÀU XÁM GÓC CẠNH,Other,2025,,538000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD 2025 - MÀU XANH NĂNG ĐỘNG,Coolray,COOLRAY STANDARD 2025 - MÀU XANH NĂNG ĐỘNG,Other,2025,,538000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 - MÀU TRẮNG NĂNG LƯỢNG,Coolray,COOLRAY PREMIUM 2025 - MÀU TRẮNG NĂNG LƯỢNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 - MÀU XÁM GÓC CẠNH,Coolray,COOLRAY FLAGSHIP 2025 - MÀU XÁM GÓC CẠNH,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 - MÀU ĐỎ ĐAM MÊ,Coolray,COOLRAY PREMIUM 2025 - MÀU ĐỎ ĐAM MÊ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU TRẮNG,Coolray,COOLRAY FLAGSHIP 2025 MÀU TRẮNG,Other,2025,,628000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA VIOS 2025,Vios,VIOS 2025,Other,2025,,458000000,1,Available,,,,12,5,Petrol,số hỗn hợp
+TOYOTA COROLLA CROSS 1.8 2025,Corolla Cross,COROLLA CROSS 1.8 2025,Other,2025,,820000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA YARIS CROSS 2025,Yaris Cross,YARIS CROSS 2025,Other,2025,,650000000,1,Available,,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT ECO 1.5L 2025,Xpander,XPANDER AT ECO 1.5L 2025,Other,2025,,598000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE MT 1.2L 2025,Attrage,ATTRAGE MT 1.2L 2025,Other,2025,,380000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE ULTIMATE 2025,Xforce ,XFORCE ULTIMATE 2025,Other,2025,,705000000,1,Available,,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT ECO 1.5L 2025,Xpander,XPANDER AT ECO 1.5L 2025,Other,2025,,598000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE MT 1.2L 2025,Attrage,ATTRAGE MT 1.2L 2025,Other,2025,,380000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE ULTIMATE 2025,Xforce ,XFORCE ULTIMATE 2025,Other,2025,,705000000,1,Available,,,,12,5,Petrol,số tự động
+MITSUBISHI ALL NEW TRITON GLX 2.4L AT 2025,Triton,ALL NEW TRITON GLX 2.4L AT 2025,Other,2025,,655000000,1,Available,xám,,,12,5,Diesel,số tự động
+MITSUBISHI ALL NEW TRITON ATHLETE 4x4 AT 2.4L Bi-Turbo 2025,Triton,ALL NEW TRITON ATHLETE 4x4 AT 2.4L Bi-Turbo 2025,Other,2025,,924000000,1,Available,cam,,,12,5,Diesel,số tự động
+MITSUBISHI XPANDER MT 1.5L 2025,Xpander,XPANDER MT 1.5L 2025,Other,2025,,560000000,1,Available,White,,,12,5,Petrol,Manual
+MITSUBISHI TRITON 2WD PREMIUM 2.4L AT 2025,Triton,TRITON 2WD PREMIUM 2.4L AT 2025,Other,2025,,782000000,1,Available,cam,,,12,5,Diesel,số tự động
+MITSUBISHI XPANDER 1.5L AT 2025,Xpander,XPANDER 1.5L AT 2025,Other,2025,,658000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE PREMIUM 1.5L CVT 2025,Xforce ,XFORCE PREMIUM 1.5L CVT 2025,Other,2025,,680000000,1,Available,Red,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER CROSS 1.5L AT 2025,Xpander Cross,XPANDER CROSS 1.5L AT 2025,Other,2025,,698000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI I10 HATCHBACK 2025 - TRẮNG,i10,I10 HATCHBACK 2025 - TRẮNG,Hatchback,2025,,435000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI ACCENT CAO CẤP 2024 - ĐEN,Accent,ACCENT CAO CẤP 2024 - ĐEN,Other,2024,,569000000,1,Available,Black,,,12,5,Petrol,số tự động
+HYUNDAI VENUE ĐẶC BIỆT 2025 - XÁM,Venue,VENUE ĐẶC BIỆT 2025 - XÁM,Other,2025,,539000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI VENUE TIÊU CHUẨN 2025 - ĐỎ,Venue,VENUE TIÊU CHUẨN 2025 - ĐỎ,Other,2025,,499000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Coolray,COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Other,2025,,628000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI VENUE ĐẶC BIỆT 2025 - XÁM,Venue,VENUE ĐẶC BIỆT 2025 - XÁM,Other,2025,,539000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI VENUE TIÊU CHUẨN 2025 - ĐỎ,Venue,VENUE TIÊU CHUẨN 2025 - ĐỎ,Other,2025,,499000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Coolray,COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Other,2025,,628000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI ALL NEW ACCENT TIÊU CHUẨN 2025,Accent,ALL NEW ACCENT TIÊU CHUẨN 2025,Other,2025,,439000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA TIÊU CHUẨN 2025,Elantra,ELANTRA TIÊU CHUẨN 2025,Other,2025,,579000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI CUSTIN TIÊU CHUẨN 2025,Custin,CUSTIN TIÊU CHUẨN 2025,Other,2025,,820000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER TIÊU CHUẨN 2025,Stargazer,STARGAZER TIÊU CHUẨN 2025,Other,2025,,489000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI PALISADE 2025,Palisade,PALISADE 2025,Other,2025,,1469000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI SANTA FE CALLIGRAPHY 2025,Santa Fe,SANTA FE CALLIGRAPHY 2025,Other,2025,,1365000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI TUCSON TIÊU CHUẨN 2025,Tucson,TUCSON TIÊU CHUẨN 2025,Other,2025,,769000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI CRETA TIÊU CHUẨN 2025,Creta,CRETA TIÊU CHUẨN 2025,Other,2025,,599000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI VENUE TIÊU CHUẨN 2025,Venue,VENUE TIÊU CHUẨN 2025,Other,2025,,499000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA 2.0 ĐẶC BIỆT 2025,Elantra,ELANTRA 2.0 ĐẶC BIỆT 2025,Other,2025,,699000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA AVANZA PREMIO 2025,Avanza,AVANZA PREMIO 2025,Other,2025,,558000000,1,Available,White,,,12,5,Petrol,Manual
+FORD TERRITORY TREND 2025,Territory,TERRITORY TREND 2025,Other,2025,,759000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA 2.0 ĐẶC BIỆT 2025,Elantra,ELANTRA 2.0 ĐẶC BIỆT 2025,Other,2025,,699000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA AVANZA PREMIO 2025,Avanza,AVANZA PREMIO 2025,Other,2025,,558000000,1,Available,White,,,12,5,Petrol,Manual
+FORD TERRITORY TREND 2025,Territory,TERRITORY TREND 2025,Other,2025,,759000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD EVEREST PLATINUM 4X4 2025,Everest,EVEREST PLATINUM 4X4 2025,Other,2025,,1545000000,1,Available,Black,,,12,5,Diesel,số tự động
+FORD RANGER XLS AT 4X2 2025,Ranger,RANGER XLS AT 4X2 2025,Other,2025,,707000000,1,Available,Red,,,12,5,Diesel,số tự động
+FORD RANGER XLS AT 4X4 2025,Ranger,RANGER XLS AT 4X4 2025,Other,2025,,776000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD TERRITORY SPORT 2025,Territory,TERRITORY SPORT 2025,Other,2025,,869000000,1,Available,Black,,,12,5,Petrol,số tự động
+FORD TRANSIT PREMIUM 18S 2025,Transit,TRANSIT PREMIUM 18S 2025,Other,2025,,1091000000,1,Available,White,,,12,5,Diesel,Manual
+FORD RANGER WILDTRAK 4X4 2025,Ranger,RANGER WILDTRAK 4X4 2025,Other,2025,,979000000,1,Available,xám,,,12,5,Diesel,số tự động
+FORD RANGER RAPTOR 2025,Ranger,RANGER RAPTOR 2025,Other,2025,,1306000000,1,Available,xám,,,12,5,Diesel,số tự động
+FORD TRANSIT PREMIUM 16S 2025,Transit,TRANSIT PREMIUM 16S 2025,Other,2025,,999000000,1,Available,White,,,12,5,Diesel,Manual
+FORD TRANSIT TREND 2025,Transit,TRANSIT TREND 2025,Other,2025,,907000000,1,Available,bạc,,,12,5,Diesel,Manual
+FORD EVEREST TITANIUM 4X2 2025,Everest,EVEREST TITANIUM 4X2 2025,Other,2025,,1299000000,1,Available,Black,,,12,5,Diesel,số tự động
+FORD EVETREST TITANIUM 4X4 2025,Everest,EVETREST TITANIUM 4X4 2025,Other,2025,,1468000000,1,Available,xám,,,12,5,Diesel,số tự động
+FORD TERRITORY TITANIUM X 2025,Territory,TERRITORY TITANIUM X 2025,Other,2025,,889000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD EVEREST TITANIUM 4X2 2025,Everest,EVEREST TITANIUM 4X2 2025,Other,2025,,1299000000,1,Available,Black,,,12,5,Diesel,số tự động
+FORD EVETREST TITANIUM 4X4 2025,Everest,EVETREST TITANIUM 4X4 2025,Other,2025,,1468000000,1,Available,xám,,,12,5,Diesel,số tự động
+FORD TERRITORY TITANIUM X 2025,Territory,TERRITORY TITANIUM X 2025,Other,2025,,889000000,1,Available,White,,,12,5,Petrol,số tự động
+HONDA CR-V G 2025,CR-V,CR-V G 2025,Other,2025,,1029000000,1,Available,,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM MÀU BẠC,Coolray,COOLRAY PREMIUM MÀU BẠC,Other,2025,,578000000,1,Available,bạc,,,12,5,Petrol,số tự động
+HYUNDAI CUSTIN TIÊU CHUẨN 2025 - ĐEN,Custin,CUSTIN TIÊU CHUẨN 2025 - ĐEN,Other,2025,,820000000,1,Available,Black,,,12,5,Petrol,số tự động
+TOYOTA CAMRY 2025 ,Camry,CAMRY 2025,Other,2025,,1220000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA VELOZ CROSS CVT 2025 ,Veloz ,VELOZ CROSS CVT 2025,Other,2025,,638000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI I10 SEDAN MT 2025 - BẠC,i10,I10 SEDAN MT 2025 - BẠC,Sedan,2025,,380000000,1,Available,bạc,,,12,5,Petrol,Manual
+HYUNDAI I10 HATCHBACK 2025 - TRẮNG,i10,I10 HATCHBACK 2025 - TRẮNG,Hatchback,2025,,435000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA 1.6 TIÊU CHUẨN 2025 - ĐỎ,Elantra,ELANTRA 1.6 TIÊU CHUẨN 2025 - ĐỎ,Other,2025,,579000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI CUSTIN 2.0T 2025 - TRẮNG,Custin,CUSTIN 2.0T 2025 - TRẮNG,Other,2025,,999000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI IONIQ 5 2025 - BẠC,EX8,IONIQ 5 2025 - BẠC,Other,2025,,1300000000,1,Available,bạc,,,12,5,Electric,số tự động
+ALMERA CVT CAO CẤP,Almera,CVT CAO CẤP,Other,2025,,595000000,1,Available,,,,12,5,Petrol,số tự động
+ALMERA V,Almera,V,Other,2025,,539000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI IONIQ 5 2025 - BẠC,EX8,IONIQ 5 2025 - BẠC,Other,2025,,1300000000,1,Available,bạc,,,12,5,Electric,số tự động
+ALMERA CVT CAO CẤP,Almera,CVT CAO CẤP,Other,2025,,595000000,1,Available,,,,12,5,Petrol,số tự động
+ALMERA V,Almera,V,Other,2025,,539000000,1,Available,,,,12,5,Petrol,số tự động
+NAVARA PRO4X,Navara,PRO4X,Other,2025,,970000000,1,Available,,,,12,5,Diesel,số tự động
+NISSAN NAVARA VL,Navara,NAVARA VL,Other,2025,,945000000,1,Available,,,,12,5,Diesel,số tự động
+GEELY COOLRAY STANDARD MAY BẠC NĂM 2025,Coolray,COOLRAY STANDARD MAY BẠC NĂM 2025,Other,2025,,538000000,1,Available,bạc,,,12,5,Petrol,số tự động
+TOYOTA VELOZ CROSS 2025 ,Veloz Cross,VELOZ CROSS 2025,Other,2025,,638000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD TERRITORY TITANIUM 4X2AT 2025,Territory,TERRITORY TITANIUM 4X2AT 2025,Other,2025,,849000000,1,Available,,,,12,5,Petrol,số tự động
+FORD TERRITORY SPORT 4X2AT 2025,Territory,TERRITORY SPORT 4X2AT 2025,Other,2025,,869000000,1,Available,,,,12,5,Petrol,số tự động
+FORD TERRITORY TITANIUM X 4X2AT 2025,Territory,TERRITORY TITANIUM X 4X2AT 2025,Other,2025,,889000000,1,Available,,,,12,5,Petrol,số tự động
+FORD EXPLORER 4X4AT 2025,Explorer,EXPLORER 4X4AT 2025,Other,2025,,2099000000,1,Available,,,,12,5,Petrol,số tự động
+FORD TRANSIT TREND 4X2AT 2025,Transit,TRANSIT TREND 4X2AT 2025,Other,2025,,907000000,1,Available,,,,12,5,Diesel,Manual
+FORD TRANSIT PREMIUM 4X2AT 2025,Transit,TRANSIT PREMIUM 4X2AT 2025,Other,2025,,999000000,1,Available,,,,12,5,Diesel,Manual
+FORD TRANSIT PREMIUM+ 4X2AT,Transit,TRANSIT PREMIUM+ 4X2AT,Other,2025,,1091000000,1,Available,,,,12,5,Diesel,Manual
+HYUNDAI ELANTRA 2.0 2025 - TRẮNG,Elantra,ELANTRA 2.0 2025 - TRẮNG,Other,2025,,699000000,1,Available,xám,,,12,5,Petrol,số tự động
+FORD TRANSIT PREMIUM 4X2AT 2025,Transit,TRANSIT PREMIUM 4X2AT 2025,Other,2025,,999000000,1,Available,,,,12,5,Diesel,Manual
+FORD TRANSIT PREMIUM+ 4X2AT,Transit,TRANSIT PREMIUM+ 4X2AT,Other,2025,,1091000000,1,Available,,,,12,5,Diesel,Manual
+HYUNDAI ELANTRA 2.0 2025 - TRẮNG,Elantra,ELANTRA 2.0 2025 - TRẮNG,Other,2025,,699000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA 2.0 2025 - TRẮNG,Elantra,ELANTRA 2.0 2025 - TRẮNG,Other,2025,,699000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD MÀU BẠC NĂM 2025,Coolray,COOLRAY STANDARD MÀU BẠC NĂM 2025,Other,2025,,538000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP MÀU XANH ,Coolray,COOLRAY FLAGSHIP MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER X CAO CẤP 2025 - XÁM,Stargazer,STARGAZER X CAO CẤP 2025 - XÁM,Other,2025,,599000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA TIÊU CHUẨN 2025 - ĐỎ,Elantra,ELANTRA TIÊU CHUẨN 2025 - ĐỎ,Other,2025,,579000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA TIÊU CHUẨN 2025 - TRẮNG,Elantra,ELANTRA TIÊU CHUẨN 2025 - TRẮNG,Other,2025,,579000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI SANTA FE CALLIGRAPHY 2025 - TRẮNG,Santa Fe,SANTA FE CALLIGRAPHY 2025 - TRẮNG,Other,2025,,1365000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM XÁM ,Coolray,COOLRAY PREMIUM XÁM,Other,2025,,578000000,1,Available,xám,,,12,5,Petrol,số tự động
+TOYOTA LAND CRUISER PRADO 2025,Land Cruiser Prado,LAND CRUISER PRADO 2025,Other,2025,,3480000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA HILUX  2025 ,Hilux,HILUX 2025,Other,2025,,706000000,1,Available,Black,,,12,5,Diesel,số tự động
+TOYOTA WIGO 2025 ,Wigo,WIGO 2025,Other,2025,,405000000,1,Available,bạc,,,12,5,Petrol,số tự động
+TOYOTA COROLLA ALTIS 2025 ,Corolla Altis,COROLLA ALTIS 2025,Other,2025,,725000000,1,Available,Black,,,12,5,Petrol,số tự động
+TOYOTA HILUX  2025 ,Hilux,HILUX 2025,Other,2025,,706000000,1,Available,Black,,,12,5,Diesel,số tự động
+TOYOTA WIGO 2025 ,Wigo,WIGO 2025,Other,2025,,405000000,1,Available,bạc,,,12,5,Petrol,số tự động
+TOYOTA COROLLA ALTIS 2025 ,Corolla Altis,COROLLA ALTIS 2025,Other,2025,,725000000,1,Available,Black,,,12,5,Petrol,số tự động
+TOYOTA RAIZE 2025,Raize,RAIZE 2025,Other,2025,,510000000,1,Available,vàng,,,12,5,Petrol,số tự động
+TOYOTA YARIS CROSS 2025 ,Yaris Cross,YARIS CROSS 2025,Other,2025,,650000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA CAMRY 2025 ,Camry,CAMRY 2025,Other,2025,,1220000000,1,Available,xám,,,12,5,hybrid,số tự động
+HYUNDAI CRETA 1.5 ĐẶC BIỆT 2025,Creta,CRETA 1.5 ĐẶC BIỆT 2025,Other,2025,,650000000,1,Available,Red,,,12,5,Petrol,số tự động
+Mitsubishi Attrage 2025,Attrage,Attrage 2025,Other,2025,,380000000,1,Available,White,,,12,5,Petrol,Manual
+Mitsubishi Outlander 2.0 CVT 2025,Outlander,Outlander 2.0 CVT 2025,Other,2025,,825000000,1,Available,Red,,,12,5,Petrol,số tự động
+Mitsubishi All-New Triton 2025 ,Triton,All-New Triton 2025,Other,2025,,655000000,1,Available,cam,,,12,5,Diesel,số tự động
+Mitsubishi Xpander 2025,Xpander,Xpander 2025,Other,2025,,560000000,1,Available,White,,,12,5,Petrol,số tự động
+Mitsubishi Xforce 2025,Xforce ,Xforce 2025,Other,2025,,599000000,1,Available,vàng,,,12,5,Petrol,số tự động
+Mitsubishi Xpander Cross 2025,Xpander Cross,Xpander Cross 2025,Other,2025,,698000000,1,Available,cam,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER PREMIUM - BẠC - NEW 2025,Xpander,XPANDER PREMIUM - BẠC - NEW 2025,Other,2025,,658000000,1,Available,bạc,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE ULTIMATE 1.5L MIVEC 2024,Xforce ,XFORCE ULTIMATE 1.5L MIVEC 2024,Other,2024,,705000000,1,Available,vàng,,,12,5,Petrol,số tự động
+Mitsubishi Xpander Cross 2025,Xpander Cross,Xpander Cross 2025,Other,2025,,698000000,1,Available,cam,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER PREMIUM - BẠC - NEW 2025,Xpander,XPANDER PREMIUM - BẠC - NEW 2025,Other,2025,,658000000,1,Available,bạc,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE ULTIMATE 1.5L MIVEC 2024,Xforce ,XFORCE ULTIMATE 1.5L MIVEC 2024,Other,2024,,705000000,1,Available,vàng,,,12,5,Petrol,số tự động
+TRITON ATHLETE 2 CẦU TRẮNG - NEW 2025,Triton,ATHLETE 2 CẦU TRẮNG - NEW 2025,Other,2025,,924000000,1,Available,,,,12,5,Diesel,số tự động
+TRITON ATHLETE 2 CẦU CAM - NEW 2025,Triton,ATHLETE 2 CẦU CAM - NEW 2025,Other,2025,,924000000,1,Available,cam,,,12,5,Diesel,số tự động
+TRITON AT PREMIUM TRẮNG - NEW 2025,Triton,AT PREMIUM TRẮNG - NEW 2025,Other,2025,,782000000,1,Available,White,,,12,5,Diesel,số tự động
+TRITON AT PREMIUM CAM - NEW 2025,Triton,AT PREMIUM CAM - NEW 2025,Other,2025,,782000000,1,Available,cam,,,12,5,Diesel,số tự động
+TRITON AT PREMIUM ĐEN - NEW 2025,Triton,AT PREMIUM ĐEN - NEW 2025,Other,2025,,782000000,1,Available,Black,,,12,5,Diesel,số tự động
+TRITON AT GLX ĐEN - NEW 2025,Triton,AT GLX ĐEN - NEW 2025,Other,2025,,655000000,1,Available,Black,,,12,5,Diesel,số tự động
+TRITON AT GLX TRẮNG - NEW 2025,Triton,AT GLX TRẮNG - NEW 2025,Other,2025,,655000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD EVEREST PLATINIUM 2.0L 4X4,Everest,EVEREST PLATINIUM 2.0L 4X4,Other,2025,,1545000000,1,Available,bạc,,,12,5,Diesel,số tự động
+TRITON AT GLX​ XÁM - NEW 2025,Triton,AT GLX​ XÁM - NEW 2025,Other,2025,,655000000,1,Available,xám,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM 2.0L 4X2 TRẮNG/ĐỎ CAM,Everest,EVEREST TITANIUM 2.0L 4X2 TRẮNG/ĐỎ CAM,Other,2025,,1306000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST SPORT AT 4X2 TRẮNG/ĐỎ CAM,Everest,EVEREST SPORT AT 4X2 TRẮNG/ĐỎ CAM,Other,2025,,1185000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST AMBIENTE AT 4X2,Everest,EVEREST AMBIENTE AT 4X2,Other,2025,,1099000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM 2.0L 4X2 TRẮNG/ĐỎ CAM,Everest,EVEREST TITANIUM 2.0L 4X2 TRẮNG/ĐỎ CAM,Other,2025,,1306000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST SPORT AT 4X2 TRẮNG/ĐỎ CAM,Everest,EVEREST SPORT AT 4X2 TRẮNG/ĐỎ CAM,Other,2025,,1185000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST AMBIENTE AT 4X2,Everest,EVEREST AMBIENTE AT 4X2,Other,2025,,1099000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER SPORT 6AT 4X4,Ranger,RANGER SPORT 6AT 4X4,Other,2025,,864000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER RAPTOR 4X4 2025 ĐỎ CAM/GHI XÁM,Ranger,RANGER RAPTOR 4X4 2025 ĐỎ CAM/GHI XÁM,Other,2025,,1306000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER RAPTOR 4X4 2025 ,Ranger,RANGER RAPTOR 4X4 2025,Other,2025,,1299000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER WILDTRAK 4X4 10AT - VÀNG LUX / ĐỎ CAM,Ranger,RANGER WILDTRAK 4X4 10AT - VÀNG LUX / ĐỎ CAM,Other,2025,,986000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER WILDTRAK 4X4 10AT,Ranger,RANGER WILDTRAK 4X4 10AT,Other,2025,,979000000,1,Available,Black,,,12,5,Diesel,số tự động
+XPANDER CROSS NÂU - NEW 2025,Xpander,CROSS NÂU - NEW 2025,Other,2025,,698000000,1,Available,nâu,,,12,5,Petrol,số tự động
+XPANDER CROSS ĐEN - NEW 2025,Xpander,CROSS ĐEN - NEW 2025,Other,2025,,698000000,1,Available,Black,,,12,5,Petrol,số tự động
+FORD RANGER XLS 6AT 4X4 LED,Ranger,RANGER XLS 6AT 4X4 LED,Other,2025,,776000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER XLS 6AT 4X2 LED,Ranger,RANGER XLS 6AT 4X2 LED,Other,2024,,707000000,1,Available,,,,12,5,Diesel,số tự động
+XPANDER CROSS TRẮNG - NEW 2025,Xpander Cross,CROSS TRẮNG - NEW 2025,Other,2025,,698000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD RANGER XL,Ranger,RANGER XL,Other,2025,,669000000,1,Available,,,,12,5,Diesel,Manual
+FORD RANGER STORMTRAK,Ranger,RANGER STORMTRAK,Other,2025,,1039000000,1,Available,,,,12,5,Diesel,số tự động
+XPANDER CROSS TRẮNG - NEW 2025,Xpander Cross,CROSS TRẮNG - NEW 2025,Other,2025,,698000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD RANGER XL,Ranger,RANGER XL,Other,2025,,669000000,1,Available,,,,12,5,Diesel,Manual
+FORD RANGER STORMTRAK,Ranger,RANGER STORMTRAK,Other,2025,,1039000000,1,Available,,,,12,5,Diesel,số tự động
+FORD TERRITORY TITANIUM X,Territory,TERRITORY TITANIUM X,Other,2025,,889000000,1,Available,,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER PREMIUM - ĐEN - NEW 2025,Xpander,XPANDER PREMIUM - ĐEN - NEW 2025,Other,2025,,658000000,1,Available,Black,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER PREMIUM - ĐỎ - NEW 2025,Xpander,XPANDER PREMIUM - ĐỎ - NEW 2025,Other,2025,,658000000,1,Available,Red,,,12,5,Petrol,số tự động
+FORD TERRITORY SPORT,Territory,TERRITORY SPORT,Other,2025,,869000000,1,Available,,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER PREMIUM - TRẮNG - NEW 2025,Xpander,XPANDER PREMIUM - TRẮNG - NEW 2025,Other,2025,,658000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD TERRITORY TITANIUM ,Territory,TERRITORY TITANIUM,Other,2025,,849000000,1,Available,,,,12,5,Petrol,số tự động
+FORD TERRITORY TREND TRẮNG,Territory,TERRITORY TREND TRẮNG,Other,2025,,759000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT XÁM BẠC- NEW 2025,Xpander,XPANDER AT XÁM BẠC- NEW 2025,Other,2025,,598000000,1,Available,xám,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT TRẮNG - NEW 2025,Xpander,XPANDER AT TRẮNG - NEW 2025,Other,2025,,598000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT ĐEN - NEW 2025,Xpander,XPANDER AT ĐEN - NEW 2025,Other,2025,,598000000,1,Available,Black,,,12,5,Petrol,số tự động
+FORD TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM+ 18 CHỖ,Transit,TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM+ 18 CHỖ,Other,2025,,1091000000,1,Available,bạc,,,12,5,Diesel,Manual
+FORD TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM16 CHỖ,Transit,TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM16 CHỖ,Other,2025,,999000000,1,Available,White,,,12,5,Diesel,Manual
+MITSUBISHI XPANDER AT ĐEN - NEW 2025,Xpander,XPANDER AT ĐEN - NEW 2025,Other,2025,,598000000,1,Available,Black,,,12,5,Petrol,số tự động
+FORD TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM+ 18 CHỖ,Transit,TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM+ 18 CHỖ,Other,2025,,1091000000,1,Available,bạc,,,12,5,Diesel,Manual
+FORD TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM16 CHỖ,Transit,TRANSIT HOÀN TOÀN MỚI - BẢN PREMIUM16 CHỖ,Other,2025,,999000000,1,Available,White,,,12,5,Diesel,Manual
+MITSUBISHI ATTRAGE CVT PREMIUM 2025,Attrage,ATTRAGE CVT PREMIUM 2025,Other,2025,,490000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE CVT 2025,Attrage,ATTRAGE CVT 2025,Other,2025,,465000000,1,Available,Red,,,12,5,Petrol,số tự động
+FORD TRANSIT HOÀN TOÀN MỚI BẢN TREND 16 CHỖ,Transit,TRANSIT HOÀN TOÀN MỚI BẢN TREND 16 CHỖ,Other,2025,,907000000,1,Available,White,,,12,5,Diesel,Manual
+MITSUBISHI ATTRAGE MT XÁM - NEW 2025,Attrage,ATTRAGE MT XÁM - NEW 2025,Other,2025,,380000000,1,Available,xám,,,12,5,Petrol,Manual
+ Toyota Vios 1.5G CVT 2025,Vios,Vios 1.5G CVT 2025,Other,2025,,545000000,1,Available,White,,,12,5,Petrol,số tự động
+Toyota Vios 1.5E CVT 2025,Vios,Vios 1.5E CVT 2025,Other,2025,,488000000,1,Available,White,,,12,5,Petrol,số tự động
+Toyota Vios 1.5E MT 2025 ,Vios,Vios 1.5E MT 2025,Other,2025,,458000000,1,Available,White,,,12,5,Petrol,Manual
+HYUNDAI ELANTRA 1.6AT TIÊU CHUẨN 2025 TRẮNG,Elantra,ELANTRA 1.6AT TIÊU CHUẨN 2025 TRẮNG,Other,2024,,549000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI CUSTIN 1.5T 2025 TRẮNG,Custin,CUSTIN 1.5T 2025 TRẮNG,Other,2025,,810000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI PALISADE PRESTIGE 2025 TRẮNG,Palisade,PALISADE PRESTIGE 2025 TRẮNG,Other,2025,,1441000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD MÀU BẠC,Coolray,COOLRAY STANDARD MÀU BẠC,Other,2025,,538000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP MÀU XÁM,Coolray,COOLRAY FLAGSHIP MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI PALISADE PRESTIGE 2025 TRẮNG,Palisade,PALISADE PRESTIGE 2025 TRẮNG,Other,2025,,1441000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD MÀU BẠC,Coolray,COOLRAY STANDARD MÀU BẠC,Other,2025,,538000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP MÀU XÁM,Coolray,COOLRAY FLAGSHIP MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI CRETA ĐẶC BIỆT 2025 - XÁM,Creta,CRETA ĐẶC BIỆT 2025 - XÁM,Other,2025,,690000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI TUCSON TIÊU CHUẨN 2025 - ĐỎ,Tucson,TUCSON TIÊU CHUẨN 2025 - ĐỎ,Other,2025,,769000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI TUCSON TIÊU CHUẨN 2025 - TRẮNG,Tucson,TUCSON TIÊU CHUẨN 2025 - TRẮNG,Other,2025,,769000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI CRETA ĐẶC BIỆT 2025 - ĐEN,Creta,CRETA ĐẶC BIỆT 2025 - ĐEN,Other,2025,,690000000,1,Available,Black,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU ĐỎ,Coolray,COOLRAY STANDAR 2025 MÀU ĐỎ,Other,2025,,538000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐEN,Coolray,COOLRAY PREMIUM 2025 MÀU ĐEN,Other,2025,,578000000,1,Available,Black,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU TRẮNG,Coolray,COOLRAY STANDAR 2025 MÀU TRẮNG,Other,2025,,538000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU CAM,Coolray,COOLRAY PREMIUM 2025 MÀU CAM,Other,2025,,578000000,1,Available,cam,,,12,5,Petrol,số tự động
+Toyota Camry 2.5 HEV Mid 2025 - Màu Trắng,Camry,Camry 2.5 HEV Mid 2025 - Màu Trắng,Other,2025,,1460000000,1,Available,White,,,12,5,hybrid,số tự động
+HYUNDAI VENUE TIÊU CHUẨN 2025 - ĐỎ,Venue,VENUE TIÊU CHUẨN 2025 - ĐỎ,Other,2025,,499000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU CAM,Coolray,COOLRAY PREMIUM 2025 MÀU CAM,Other,2025,,578000000,1,Available,cam,,,12,5,Petrol,số tự động
+Toyota Camry 2.5 HEV Mid 2025 - Màu Trắng,Camry,Camry 2.5 HEV Mid 2025 - Màu Trắng,Other,2025,,1460000000,1,Available,White,,,12,5,hybrid,số tự động
+HYUNDAI VENUE TIÊU CHUẨN 2025 - ĐỎ,Venue,VENUE TIÊU CHUẨN 2025 - ĐỎ,Other,2025,,499000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI ACCENT 2024 CAO CẤP - GHI VÀNG,Accent,ACCENT 2024 CAO CẤP - GHI VÀNG,Other,2024,,569000000,1,Available,vàng,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE MT - 2025,Attrage,ATTRAGE MT - 2025,Other,2025,,380000000,1,Available,White,,,12,5,Petrol,Manual
+HYUNDAI ACCENT 1.5AT CAO CẤP 2025,Accent,ACCENT 1.5AT CAO CẤP 2025,Other,2025,,569000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP MÀU TRẮNG ,Coolray,COOLRAY FLAGSHIP MÀU TRẮNG,Other,2025,,628000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD 2025 MÀU BẠC,Coolray,COOLRAY STANDARD 2025 MÀU BẠC,Other,2025,,538000000,1,Available,bạc,,,12,5,Petrol,số tự động
+HYUNDAI VENUE 1.0 T-GDi 2025,Venue,VENUE 1.0 T-GDi 2025,Other,2025,,539000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI PALISADE 2.2D PRESTIGE 2024,Santa Fe,PALISADE 2.2D PRESTIGE 2024,Other,2024,,1589000000,1,Available,White,,,12,5,Diesel,số tự động
+Ford Transit Cứu Thương màu trắng 2025,Transit,Transit Cứu Thương màu trắng 2025,Other,2025,,1050000000,1,Available,White,,,12,5,Diesel,Manual
+Ford Territory Sport màu trắng 2025,Territory,Territory Sport màu trắng 2025,Other,2025,,869000000,1,Available,White,,,12,5,Petrol,số tự động
+Ford Ranger Wildtrak màu vàng Luxe 2025,Ranger,Ranger Wildtrak màu vàng Luxe 2025,Other,2025,,986000000,1,Available,vàng,,,12,5,Diesel,số tự động
+Ford Territory màu đỏ 2025 ,Territory,Territory màu đỏ 2025,Other,2025,,889000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI VENUE 1.0 ĐẶC BIỆT 2025,Venue,VENUE 1.0 ĐẶC BIỆT 2025,Other,2025,,539000000,1,Available,Red,,,12,5,Petrol,số tự động
+Ford Ranger Wildtrak màu vàng Luxe 2025,Ranger,Ranger Wildtrak màu vàng Luxe 2025,Other,2025,,986000000,1,Available,vàng,,,12,5,Diesel,số tự động
+Ford Territory màu đỏ 2025 ,Territory,Territory màu đỏ 2025,Other,2025,,889000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI VENUE 1.0 ĐẶC BIỆT 2025,Venue,VENUE 1.0 ĐẶC BIỆT 2025,Other,2025,,539000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER TIÊU CHUẨN 2025 - TRẮNG,Stargazer,STARGAZER TIÊU CHUẨN 2025 - TRẮNG,Other,2025,,489000000,1,Available,White,,,12,5,Petrol,số tự động
+Toyota Veloz Cross Top 1.5 CVT 2025 - Màu Đỏ,Veloz Cross,Veloz Cross Top 1.5 CVT 2025 - Màu Đỏ,Other,2025,,660000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI PALISADE EXCLUSIVE 2025 - TRẮNG,Palisade,PALISADE EXCLUSIVE 2025 - TRẮNG,Other,2025,,1479000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI SANTA FE Exclusive 2025 - Trắng,Santa Fe,SANTA FE Exclusive 2025 - Trắng,Other,2025,,1069000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI CUSTIN 1.5 TURBO CAO CẤP 2025 - TRẮNG,Custin,CUSTIN 1.5 TURBO CAO CẤP 2025 - TRẮNG,Other,2025,,950000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD EVEREST TITANIUM+ 2.0L AT 4X4,Everest,EVEREST TITANIUM+ 2.0L AT 4X4,Other,2025,,1468000000,1,Available,nâu,,,12,5,Diesel,số tự động
+HYUNDAI TUCSON 2.0 DẦU 2025 MÀU TRẮNG,Tucson,TUCSON 2.0 DẦU 2025 MÀU TRẮNG,Other,2025,,989000000,1,Available,White,,,12,5,Diesel,số tự động
+HYUNDAI TUCSON 2.0 TIÊU CHUẨN 2025 MÀU ĐEN,Tucson,TUCSON 2.0 TIÊU CHUẨN 2025 MÀU ĐEN,Other,2025,,769000000,1,Available,Black,,,12,5,Petrol,số tự động
+HYUNDAI ACCENT MT 2025 MÀU TRẮNG,Accent,ACCENT MT 2025 MÀU TRẮNG,Other,2024,,424000000,1,Available,White,,,12,5,Petrol,Manual
+HYUNDAI CUSTIN 1.5 Turbo Tiêu chuẩn 2025 - Màu Trắng,Custin,CUSTIN 1.5 Turbo Tiêu chuẩn 2025 - Màu Trắng,Other,2025,,820000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI CRETA TIÊU CHUẨN 2025 - ĐỎ,Creta,CRETA TIÊU CHUẨN 2025 - ĐỎ,Other,2025,,600000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER TIÊU CHUẨN 2025 - XÁM,Stargazer,STARGAZER TIÊU CHUẨN 2025 - XÁM,Other,2025,,489000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI CUSTIN 1.5 Turbo Tiêu chuẩn 2025 - Màu Trắng,Custin,CUSTIN 1.5 Turbo Tiêu chuẩn 2025 - Màu Trắng,Other,2025,,820000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI CRETA TIÊU CHUẨN 2025 - ĐỎ,Creta,CRETA TIÊU CHUẨN 2025 - ĐỎ,Other,2025,,600000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER TIÊU CHUẨN 2025 - XÁM,Stargazer,STARGAZER TIÊU CHUẨN 2025 - XÁM,Other,2025,,489000000,1,Available,xám,,,12,5,Petrol,số tự động
+HYUNDAI ACCENT 1.5 ĐẶC BIỆT 2025 - XANH,Accent,ACCENT 1.5 ĐẶC BIỆT 2025 - XANH,Other,2025,,529000000,1,Available,xanh,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA 1.6 TIÊU CHUẨN 2025- TRẮNG,Elantra,ELANTRA 1.6 TIÊU CHUẨN 2025- TRẮNG,Other,2025,,579000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD EVEREST PLATINUM 2.0L AT 4X4 MAU TRANG,Everest,EVEREST PLATINUM 2.0L AT 4X4 MAU TRANG,Other,2025,,1552000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM 2.0L AT 4X2 TRẮNG TUYẾT,Everest,EVEREST TITANIUM 2.0L AT 4X2 TRẮNG TUYẾT,Other,2025,,1306000000,1,Available,White,,,12,5,Diesel,số tự động
+EVEREST PLATINUM 2.0L AT 4X4,Everest,PLATINUM 2.0L AT 4X4,Other,2025,,1545000000,1,Available,Black,,,12,5,Diesel,số tự động
+HYUNDAI SANTA FE PRESTIGE 2025 màu Trắng ,Santa Fe,SANTA FE PRESTIGE 2025 màu Trắng,Other,2025,,1265000000,1,Available,White,,,12,5,Petrol,số tự động
+HYUNDAI I10 SEDAN 2025 TRẮNG,i10,I10 SEDAN 2025 TRẮNG,Sedan,2025,,380000000,1,Available,,,,12,5,Petrol,số hỗn hợp
+GEELY COOLRAY - FLAGSHIP MÀU XANH,Coolray,COOLRAY - FLAGSHIP MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT 2025,Xpander,XPANDER AT 2025,Other,2025,,598000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE EXCEED 2025,Xforce ,XFORCE EXCEED 2025,Other,2025,,640000000,1,Available,Red,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE ULTIMATE 2025,Xforce ,XFORCE ULTIMATE 2025,Other,2025,,705000000,1,Available,vàng,,,12,5,Petrol,số tự động
+TOYOTA FORTUNER 2.4AT 4X2 2025 Màu Đen,Fortuner,FORTUNER 2.4AT 4X2 2025 Màu Đen,Other,2025,,1055000000,1,Available,Black,,,12,5,Diesel,số tự động
+MITSUBISHI XFORCE EXCEED 2025,Xforce ,XFORCE EXCEED 2025,Other,2025,,640000000,1,Available,Red,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE ULTIMATE 2025,Xforce ,XFORCE ULTIMATE 2025,Other,2025,,705000000,1,Available,vàng,,,12,5,Petrol,số tự động
+TOYOTA FORTUNER 2.4AT 4X2 2025 Màu Đen,Fortuner,FORTUNER 2.4AT 4X2 2025 Màu Đen,Other,2025,,1055000000,1,Available,Black,,,12,5,Diesel,số tự động
+TOYOTA VIOS 1.5G 2025 Màu Đỏ,Vios,VIOS 1.5G 2025 Màu Đỏ,Other,2025,,545000000,1,Available,Red,,,12,5,Petrol,số tự động
+TOYOTA COROLLA CROSS 1.8V 2025 Màu Xám,Corolla Cross,COROLLA CROSS 1.8V 2025 Màu Xám,Other,2025,,820000000,1,Available,bạc,,,12,5,Petrol,số tự động
+TOYOTA CAMRY 2.0Q 2025 Màu Đen,Camry,CAMRY 2.0Q 2025 Màu Đen,Other,2025,,1220000000,1,Available,Black,,,12,5,Petrol,số tự động
+INNOVA CROSS 2.0 HEV - 2025 Màu Trắng,Innova,CROSS 2.0 HEV - 2025 Màu Trắng,Other,2025,,1005000000,1,Available,White,,,12,5,hybrid,số tự động
+Toyota Corolla Cross 1.8HEV Màu Đen,Corolla Cross,Corolla Cross 1.8HEV Màu Đen,Other,2025,,905000000,1,Available,Black,,,12,5,hybrid,số tự động
+TOYOTA VELOZ CROSS TOP 1.5L D-CVT Màu Trắng,Veloz Cross,VELOZ CROSS TOP 1.5L D-CVT Màu Trắng,Other,2025,,660000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA INNOVA CROSS 2.0V 2025,Innova,INNOVA CROSS 2.0V 2025,Other,2025,,825000000,1,Available,,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER CROSS 2025,Xpander Cross,XPANDER CROSS 2025,Other,2025,,698000000,1,Available,nâu,,,12,5,Petrol,số tự động
+MITSUBISHI TRITON 2WD AT GLX​ 2025,Triton,TRITON 2WD AT GLX​ 2025,Other,2025,,650000000,1,Available,xám,,,12,5,Diesel,số tự động
+MITSUBISHI TRITON 2WD AT GLX​ 2025,Triton,TRITON 2WD AT GLX​ 2025,Other,2025,,650000000,1,Available,White,,,12,5,Diesel,số tự động
+TOYOTA VELOZ CROSS CVT TOP 2025,Veloz Cross,VELOZ CROSS CVT TOP 2025,Other,2025,,660000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA VIOS 1.5G CVT 2025,Vios,VIOS 1.5G CVT 2025,Other,2025,,545000000,1,Available,,,,12,5,Petrol,số tự động
+MITSUBISHI TRITON 2WD AT GLX​ 2025,Triton,TRITON 2WD AT GLX​ 2025,Other,2025,,650000000,1,Available,White,,,12,5,Diesel,số tự động
+TOYOTA VELOZ CROSS CVT TOP 2025,Veloz Cross,VELOZ CROSS CVT TOP 2025,Other,2025,,660000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA VIOS 1.5G CVT 2025,Vios,VIOS 1.5G CVT 2025,Other,2025,,545000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA VIOS 1.5E CVT 2025,Vios,VIOS 1.5E CVT 2025,Other,2025,,488000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA VIOS 1.5E MT 2025,Vios,VIOS 1.5E MT 2025,Other,2025,,458000000,1,Available,White,,,12,5,Petrol,Manual
+GEELY CẦN THƠ COOLRAY - FLAGSHIP 628.000.000 TRIỆU,Coolray,CẦN THƠ COOLRAY - FLAGSHIP 628.000.000 TRIỆU,Other,2025,,628000000,1,Available,Red,,,12,5,Petrol,số tự động
+HYUNDAI SANTA FE CALLIGRAPHY TURBO (6 GHẾ) 2025,Santa Fe,SANTA FE CALLIGRAPHY TURBO (6 GHẾ) 2025,Other,2025,,1365000000,1,Available,Black,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,Coolray,COOLRAY PREMIUM 2025 MÀU ĐỎ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,Coolray,COOLRAY PREMIUM 2025 MÀU ĐỎ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU CAM,Coolray,COOLRAY FLAGSHIP 2025 MÀU CAM,Other,2025,,628000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU CAM,Coolray,COOLRAY FLAGSHIP 2025 MÀU CAM,Other,2025,,628000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,Coolray,COOLRAY PREMIUM 2025 MÀU ĐỎ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU BẠC,Coolray,COOLRAY PREMIUM 2025 MÀU BẠC,Other,2025,,578000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY PREMIUM 2025 MÀU XANH DƯƠNG,Other,2025,,578000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Coolray,COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Other,2025,,628000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU TRẮNG,Coolray,COOLRAY FLAGSHIP 2025 MÀU TRẮNG,Other,2025,,628000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU XÁM,Coolray,COOLRAY PREMIUM 2025 MÀU XÁM,Other,2025,,578000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU CAM,Coolray,COOLRAY PREMIUM 2025 MÀU CAM,Other,2025,,578000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,Coolray,COOLRAY FLAGSHIP 2025 MÀU BẠC,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU CAM,Coolray,COOLRAY PREMIUM 2025 MÀU CAM,Other,2025,,578000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,Coolray,COOLRAY FLAGSHIP 2025 MÀU BẠC,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU CAM,Coolray,COOLRAY FLAGSHIP 2025 MÀU CAM,Other,2025,,628000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU ĐỎ,Coolray,COOLRAY STANDAR 2025 MÀU ĐỎ,Other,2025,,538000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU XÁM,Coolray,COOLRAY PREMIUM 2025 MÀU XÁM,Other,2025,,578000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU BẠC,Coolray,COOLRAY FLAGSHIP 2025 MÀU BẠC,Other,2025,,628000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 202 MÀU ĐỎ,Coolray,COOLRAY PREMIUM 202 MÀU ĐỎ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+FORD EVEREST PLATINUM 4X4AT 2025,Everest,EVEREST PLATINUM 4X4AT 2025,Other,2025,,1545000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM+ 4X4AT 2025,Ranger,EVEREST TITANIUM+ 4X4AT 2025,Other,2025,,1468000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM 4X2AT 2025,Ranger,EVEREST TITANIUM 4X2AT 2025,Other,2025,,1299000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST PLATINUM 4X4AT 2025,Everest,EVEREST PLATINUM 4X4AT 2025,Other,2025,,1545000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM+ 4X4AT 2025,Ranger,EVEREST TITANIUM+ 4X4AT 2025,Other,2025,,1468000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM 4X2AT 2025,Ranger,EVEREST TITANIUM 4X2AT 2025,Other,2025,,1299000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST SPORT 4X2AT 2025,Everest,EVEREST SPORT 4X2AT 2025,Other,2025,,1178000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST AMBIENTE 4X2AT,Everest,EVEREST AMBIENTE 4X2AT,Other,2025,,1099000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER RAPTOR 4X4AT 2025,Ranger,RANGER RAPTOR 4X4AT 2025,Other,2025,,1299000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER STORMTRAK 4X4AT 2025,Ranger,RANGER STORMTRAK 4X4AT 2025,Other,2025,,1039000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER XLS 4X2AT 2025,Ranger,RANGER XLS 4X2AT 2025,Other,2025,,707000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER XLS 4X4AT 2025,Ranger,RANGER XLS 4X4AT 2025,Other,2025,,776000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER SPORT 4X4AT 2025,Ranger,RANGER SPORT 4X4AT 2025,Other,2025,,864000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER WILDTRAK 4X4AT 2025,Ranger,RANGER WILDTRAK 4X4AT 2025,Other,2025,,979000000,1,Available,,,,12,5,Diesel,số tự động
+HYUNDAI VENUE 2025 TRẮNG,Creta,VENUE 2025 TRẮNG,Other,2025,,499000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI I10 HATCHBACK 2025 ĐỎ,i10,I10 HATCHBACK 2025 ĐỎ,Hatchback,2025,,360000000,1,Available,White,,,12,5,Petrol,số hỗn hợp
+HYUNDAI ALL NEW ACCENT 2025 ĐỎ,Accent,ALL NEW ACCENT 2025 ĐỎ,Other,2025,,439000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA 2025 TRẮNG,Elantra,ELANTRA 2025 TRẮNG,Other,2025,,579000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI I10 HATCHBACK 2025 ĐỎ,i10,I10 HATCHBACK 2025 ĐỎ,Hatchback,2025,,360000000,1,Available,White,,,12,5,Petrol,số hỗn hợp
+HYUNDAI ALL NEW ACCENT 2025 ĐỎ,Accent,ALL NEW ACCENT 2025 ĐỎ,Other,2025,,439000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI ELANTRA 2025 TRẮNG,Elantra,ELANTRA 2025 TRẮNG,Other,2025,,579000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI CRETA 2025 TRẮNG,Creta,CRETA 2025 TRẮNG,Other,2025,,600000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI STARGAZER 2025 TRẮNG,Stargazer,STARGAZER 2025 TRẮNG,Other,2025,,489000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI TUCSON 2025 TRẮNG,Tucson,TUCSON 2025 TRẮNG,Other,2025,,769000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI SANTAFE 2025 TRẮNG,Santa Fe,SANTAFE 2025 TRẮNG,Other,2025,,1069000000,1,Available,,,,12,5,Petrol,số tự động
+HYUNDAI PALISADE 2025 TRẮNG,Santa Fe,PALISADE 2025 TRẮNG,Other,2025,,1469000000,1,Available,,,,12,5,Diesel,số tự động
+HYUNDAI CUSTIN 2025 TRẮNG,Santa Fe,CUSTIN 2025 TRẮNG,Other,2025,,820000000,1,Available,,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐEN,Coolray,COOLRAY PREMIUM 2025 MÀU ĐEN,Other,2025,,578000000,1,Available,Black,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU CAM,Coolray,COOLRAY STANDAR 2025 MÀU CAM,Other,2025,,538000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Coolray,COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Other,2025,,628000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Coolray,COOLRAY FLAGSHIP 2025 MÀU ĐỎ,Other,2025,,628000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐEN,Coolray,COOLRAY PREMIUM 2025 MÀU ĐEN,Other,2025,,578000000,1,Available,Black,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU CAM,Coolray,COOLRAY FLAGSHIP 2025 MÀU CAM,Other,2025,,628000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU XÁM,Coolray,COOLRAY PREMIUM 2025 MÀU XÁM,Other,2025,,578000000,1,Available,xám,,,12,5,Petrol,số tự động
+Xe Tải ISUZU QKR 230 1Tấn 9-EURO 5 - 2025,D-Max,Tải ISUZU QKR 230 1Tấn 9-EURO 5 - 2025,Other,2025,,606000000,1,Available,,,,12,5,Diesel,Manual
+GEELY COOLRAY PREMIUM 7DCT 4X2 2025 TRẮNG,Coolray,COOLRAY PREMIUM 7DCT 4X2 2025 TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU CAM,Coolray,COOLRAY FLAGSHIP 2025 MÀU CAM,Other,2025,,628000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 7DCT 4X2 2025 TRANG,Coolray,COOLRAY FLAGSHIP 7DCT 4X2 2025 TRANG,Other,2025,,628000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,Coolray,COOLRAY PREMIUM 2025 MÀU ĐỎ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD 2025 MÀU BẠC,Coolray,COOLRAY STANDARD 2025 MÀU BẠC,Other,2025,,538000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY STANDARD 2025 MÀU XANH DƯƠNG,Other,2025,,538000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD 2025 MÀU BẠC,Coolray,COOLRAY STANDARD 2025 MÀU BẠC,Other,2025,,538000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDARD 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY STANDARD 2025 MÀU XANH DƯƠNG,Other,2025,,538000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XÁM,Coolray,COOLRAY FLAGSHIP 2025 MÀU XÁM,Other,2025,,628000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,Coolray,COOLRAY PREMIUM 2025 MÀU ĐỎ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU BẠC,Coolray,COOLRAY STANDAR 2025 MÀU BẠC,Other,2025,,538000000,1,Available,bạc,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU XÁM,Coolray,COOLRAY STANDAR 2025 MÀU XÁM,Other,2025,,538000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,Coolray,COOLRAY PREMIUM 2025 MÀU ĐỎ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY FLAGSHIP 2025 MÀU XANH DƯƠNG,Other,2025,,628000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU TRẮNG,Coolray,COOLRAY PREMIUM 2025 MÀU TRẮNG,Other,2025,,578000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY PREMIUM 2025 MÀU ĐỎ,Coolray,COOLRAY PREMIUM 2025 MÀU ĐỎ,Other,2025,,578000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY FLAGSHIP 2025 MÀU ĐEN,Coolray,COOLRAY FLAGSHIP 2025 MÀU ĐEN,Other,2025,,628000000,1,Available,Black,,,12,5,Petrol,số tự động
+ISUZU DMAX TYPE-Z 4X4 AT - 2025,D-Max,DMAX TYPE-Z 4X4 AT - 2025,Other,2025,,880000000,1,Available,Red,,,12,5,Diesel,số tự động
+ISUZU MUX PRESTIGE 4X2 AT FULL 2023-2024,mu-X,MUX PRESTIGE 4X2 AT FULL 2023-2024,Other,2023,,980000000,1,Available,White,,,12,5,Diesel,số tự động
+MITSUBISHI XFORCE 2025,Xforce ,XFORCE 2025,Other,2025,,640000000,1,Available,White,,,12,5,Petrol,số tự động
+ALL-NEW TRITON 4WD AT ATHLETE 2025,Triton,TRITON 4WD AT ATHLETE 2025,Other,2025,,924000000,1,Available,Black,,,12,5,Diesel,số tự động
+ISUZU MUX PRESTIGE 4X2 AT FULL 2023-2024,mu-X,MUX PRESTIGE 4X2 AT FULL 2023-2024,Other,2023,,980000000,1,Available,White,,,12,5,Diesel,số tự động
+MITSUBISHI XFORCE 2025,Xforce ,XFORCE 2025,Other,2025,,640000000,1,Available,White,,,12,5,Petrol,số tự động
+ALL-NEW TRITON 4WD AT ATHLETE 2025,Triton,TRITON 4WD AT ATHLETE 2025,Other,2025,,924000000,1,Available,Black,,,12,5,Diesel,số tự động
+ALL-NEW TRITON 4WD AT ATHLETE 2025,Triton,TRITON 4WD AT ATHLETE 2025,Other,2025,,924000000,1,Available,White,,,12,5,Diesel,số tự động
+ALL-NEW TRITON 2WD AT GLX​ 2025,Triton,TRITON 2WD AT GLX​ 2025,Other,2025,,655000000,1,Available,Black,,,12,5,Diesel,số tự động
+ALL-NEW TRITON 2WD AT PREMIUM 2025,Triton,TRITON 2WD AT PREMIUM 2025,Other,2025,,782000000,1,Available,White,,,12,5,Diesel,số tự động
+ALL-NEW TRITON 4WD AT ATHLETE 2025,Triton,TRITON 4WD AT ATHLETE 2025,Other,2025,,924000000,1,Available,cam,,,12,5,Diesel,số tự động
+MITSUBISHI XPANDER AT ECO 2025,Xpander,XPANDER AT ECO 2025,Other,2025,,598000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE 2025,Attrage,ATTRAGE 2025,Other,2025,,380000000,1,Available,White,,,12,5,Petrol,Manual
+ISUZU DMAX HILANDER 4X2 AT- FULL OPTION- 2025,D-Max,DMAX HILANDER 4X2 AT- FULL OPTION- 2025,Other,2025,,781000000,1,Available,xanh,,,12,5,Diesel,số tự động
+ISUZU DMAX UTZ800 4X4 MT- 2025,D-Max,DMAX UTZ800 4X4 MT- 2025,Other,2025,,656000000,1,Available,Black,,,12,5,Diesel,Manual
+ISUZU MU-X B7 PLUS-SUV-2025,mu-X,MU-X B7 PLUS-SUV-2025,SUV,2025,,998000000,1,Available,White,,,12,5,Diesel,số tự động
+ISUZU MU-X B7 MT- SUV - 2025,mu-X,MU-X B7 MT- SUV - 2025,SUV,2025,,910000000,1,Available,White,,,12,5,Diesel,Manual
+ISUZU MUX PREMIUM 4X4 AT - FULL OPTION - 2023.,mu-X,MUX PREMIUM 4X4 AT - FULL OPTION - 2023.,Other,2023,,1250000000,1,Available,White,,,12,5,Diesel,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU CAM,Coolray,COOLRAY STANDAR 2025 MÀU CAM,Other,2025,,538000000,1,Available,cam,,,12,5,Petrol,số tự động
+ISUZU MU-X B7 MT- SUV - 2025,mu-X,MU-X B7 MT- SUV - 2025,SUV,2025,,910000000,1,Available,White,,,12,5,Diesel,Manual
+ISUZU MUX PREMIUM 4X4 AT - FULL OPTION - 2023.,mu-X,MUX PREMIUM 4X4 AT - FULL OPTION - 2023.,Other,2023,,1250000000,1,Available,White,,,12,5,Diesel,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU CAM,Coolray,COOLRAY STANDAR 2025 MÀU CAM,Other,2025,,538000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU XÁM,Coolray,COOLRAY STANDAR 2025 MÀU XÁM,Other,2025,,538000000,1,Available,xám,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU XÁM,Coolray,COOLRAY STANDAR 2025 MÀU XÁM,Other,2025,,538000000,1,Available,,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU XANH,Coolray,COOLRAY STANDAR 2025 MÀU XANH,Other,2025,,538000000,1,Available,xanh,,,12,5,Petrol,số tự động
+MITSUBISHI TRITON PREMIUM 2WD AT,Triton,TRITON PREMIUM 2WD AT,Other,2025,,782000000,1,Available,cam,,,12,5,Diesel,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU ĐEN,Coolray,COOLRAY STANDAR 2025 MÀU ĐEN,Other,2025,,538000000,1,Available,Black,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY STANDAR 2025 MÀU XANH DƯƠNG,Other,2025,,538000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU CAM,Coolray,COOLRAY STANDAR 2025 MÀU CAM,Other,2025,,538000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU XÁM,Coolray,COOLRAY STANDAR 2025 MÀU XÁM,Other,2025,,538000000,1,Available,xám,,,12,5,Petrol,số tự động
+MITSUBISHI OUTLANDER 2.0CVT ,Outlander,OUTLANDER 2.0CVT,Other,2025,,825000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU CAM,Coolray,COOLRAY STANDAR 2025 MÀU CAM,Other,2025,,538000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU ĐỎ,Coolray,COOLRAY STANDAR 2025 MÀU ĐỎ,Other,2025,,538000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU TRẮNG,Coolray,COOLRAY STANDAR 2025 MÀU TRẮNG,Other,2025,,538000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU CAM,Coolray,COOLRAY STANDAR 2025 MÀU CAM,Other,2025,,538000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU ĐỎ,Coolray,COOLRAY STANDAR 2025 MÀU ĐỎ,Other,2025,,538000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU TRẮNG,Coolray,COOLRAY STANDAR 2025 MÀU TRẮNG,Other,2025,,538000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU XANH,Coolray,COOLRAY STANDAR 2025 MÀU XANH,Other,2025,,538000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU ĐỎ,Coolray,COOLRAY STANDAR 2025 MÀU ĐỎ,Other,2025,,538000000,1,Available,Red,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU TRẮNG,Coolray,COOLRAY STANDAR 2025 MÀU TRẮNG,Other,2025,,538000000,1,Available,White,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU XANH DƯƠNG,Coolray,COOLRAY STANDAR 2025 MÀU XANH DƯƠNG,Other,2025,,538000000,1,Available,xanh,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 2025 MÀU CAM,Coolray,COOLRAY STANDAR 2025 MÀU CAM,Other,2025,,538000000,1,Available,cam,,,12,5,Petrol,số tự động
+GEELY COOLRAY STANDAR 202 MÀU ĐEN,Coolray,COOLRAY STANDAR 202 MÀU ĐEN,Other,2025,,538000000,1,Available,Black,,,12,5,Petrol,số tự động
+MITSUBISHI TRITON ATHLETE 4WD AT,Triton,TRITON ATHLETE 4WD AT,Other,2025,,924000000,1,Available,cam,,,12,5,Diesel,số tự động
+MITSUBISHI TRITON GLX 2WD AT,Triton,TRITON GLX 2WD AT,Other,2025,,655000000,1,Available,White,,,12,5,Diesel,số tự động
+MITSUBISHI XFORCE ULTIMATE- 2025,ASX,XFORCE ULTIMATE- 2025,Other,2025,,705000000,1,Available,Red,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE PREMIUM - 2025,ASX,XFORCE PREMIUM - 2025,Other,2025,,680000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD EVEREST TITANIUM 2.0L AT 4X2,Everest,EVEREST TITANIUM 2.0L AT 4X2,Other,2025,,1299000000,1,Available,bạc,,,12,5,Diesel,số tự động
+EVEREST TITANIUM+ 2.0L AT 4X4 MAU TRANG TUYET,Everest,TITANIUM+ 2.0L AT 4X4 MAU TRANG TUYET,Other,2025,,1475000000,1,Available,White,,,12,5,Diesel,số tự động
+MITSUBISHI XFORCE PREMIUM - 2025,ASX,XFORCE PREMIUM - 2025,Other,2025,,680000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD EVEREST TITANIUM 2.0L AT 4X2,Everest,EVEREST TITANIUM 2.0L AT 4X2,Other,2025,,1299000000,1,Available,bạc,,,12,5,Diesel,số tự động
+EVEREST TITANIUM+ 2.0L AT 4X4 MAU TRANG TUYET,Everest,TITANIUM+ 2.0L AT 4X4 MAU TRANG TUYET,Other,2025,,1475000000,1,Available,White,,,12,5,Diesel,số tự động
+FORD EVEREST SPORT 2025,Everest,EVEREST SPORT 2025,Other,2025,,1178000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST WILDTRAK 2025,Everest,EVEREST WILDTRAK 2025,Other,2025,,1499000000,1,Available,,,,12,5,Diesel,số tự động
+FORD TERRITORY TITANIUM X 2025,Territory,TERRITORY TITANIUM X 2025,Other,2025,,889000000,1,Available,,,,12,5,Petrol,số tự động
+FORD TERRITORY SPORT 2025,Territory,TERRITORY SPORT 2025,Other,2025,,869000000,1,Available,,,,12,5,Petrol,số tự động
+FORD TERRITORY TITANIUM 2025,Territory,TERRITORY TITANIUM 2025,Other,2025,,849000000,1,Available,,,,12,5,Petrol,số tự động
+FORD TERRITORY TREND 2025,Territory,TERRITORY TREND 2025,Other,2025,,759000000,1,Available,,,,12,5,Petrol,số tự động
+FORD RANGER RAPTOR,Ranger,RANGER RAPTOR,Other,2025,,1299000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER  XLS+ 2025,Ranger,RANGER XLS+ 2025,Other,2025,,733000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER STORMTRAK 2025,Ranger,RANGER STORMTRAK 2025,Other,2025,,1039000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER WILDTRAK 2.0L 4×4 10AT 2025,Ranger,RANGER WILDTRAK 2.0L 4×4 10AT 2025,Other,2025,,979000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER SPORT 4×4 6AT 2025,Ranger,RANGER SPORT 4×4 6AT 2025,Other,2025,,864000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER XLT 2.0L 4×4 6AT 2025,Ranger,RANGER XLT 2.0L 4×4 6AT 2025,Other,2025,,830000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER WILDTRAK 2.0L 4×4 10AT 2025,Ranger,RANGER WILDTRAK 2.0L 4×4 10AT 2025,Other,2025,,979000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER SPORT 4×4 6AT 2025,Ranger,RANGER SPORT 4×4 6AT 2025,Other,2025,,864000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER XLT 2.0L 4×4 6AT 2025,Ranger,RANGER XLT 2.0L 4×4 6AT 2025,Other,2025,,830000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER XLS 2.0L 4×4 6AT 2025,Ranger,RANGER XLS 2.0L 4×4 6AT 2025,Other,2025,,776000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER XLS 2.0L 4×2 6AT 2025,Ranger,RANGER XLS 2.0L 4×2 6AT 2025,Other,2025,,707000000,1,Available,,,,12,5,Diesel,số tự động
+FORD RANGER XL 2.0L 4×4 6MT 2025,Ranger,RANGER XL 2.0L 4×4 6MT 2025,Other,2025,,669000000,1,Available,,,,12,5,Diesel,số tự động
+FORD TRANSIT PREMIUM+ 18 CHỖ 2025,Transit,TRANSIT PREMIUM+ 18 CHỖ 2025,Other,2025,,1087000000,1,Available,,,,12,5,Diesel,Manual
+FORD TRANSIT PREMIUM 16 CHỖ 2025,Transit,TRANSIT PREMIUM 16 CHỖ 2025,Other,2025,,999000000,1,Available,,,,12,5,Diesel,Manual
+FORD TRANSIT TREND 16 CHỖ 2025,Transit,TRANSIT TREND 16 CHỖ 2025,Other,2025,,905000000,1,Available,,,,12,5,Diesel,Manual
+FORD EVEREST TITANIUM 2.0 4X2 AT 2025,Everest,EVEREST TITANIUM 2.0 4X2 AT 2025,Other,2025,,1299000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EVEREST TITANIUM 2.0 4×4 AT 2025,Everest,EVEREST TITANIUM 2.0 4×4 AT 2025,Other,2025,,1468000000,1,Available,,,,12,5,Diesel,số tự động
+FORD EXPLORER LIMITED 4WD 2.3L 2023,Explorer,EXPLORER LIMITED 4WD 2.3L 2023,Other,2023,,2099000000,1,Available,,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER MT - 2025 ,Xpander,XPANDER MT - 2025,Other,2025,,560000000,1,Available,White,,,12,5,Petrol,Manual
+MITSUBISHI XPANDER CROSS - 2025 ,Xpander,XPANDER CROSS - 2025,Other,2025,,698000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT PREMIUM- 2025 ,Xpander,XPANDER AT PREMIUM- 2025,Other,2025,,658000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER MT - 2025 ,Xpander,XPANDER MT - 2025,Other,2025,,560000000,1,Available,White,,,12,5,Petrol,Manual
+MITSUBISHI XPANDER CROSS - 2025 ,Xpander,XPANDER CROSS - 2025,Other,2025,,698000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT PREMIUM- 2025 ,Xpander,XPANDER AT PREMIUM- 2025,Other,2025,,658000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT ECO - 2025 - NAU,Xpander,XPANDER AT ECO - 2025 - NAU,Other,2025,,598000000,1,Available,nâu,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT ECO - 2025 - XAM BAC,Xpander,XPANDER AT ECO - 2025 - XAM BAC,Other,2025,,598000000,1,Available,bạc,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT ECO - 2025 - ĐEN,Xpander,XPANDER AT ECO - 2025 - ĐEN,Other,2025,,598000000,1,Available,Black,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER AT ECO - 2025 - TRANG,Xpander,XPANDER AT ECO - 2025 - TRANG,Other,2025,,598000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE CVT PREMIUM- 2025 - ĐO,Attrage,ATTRAGE CVT PREMIUM- 2025 - ĐO,Other,2025,,490000000,1,Available,Red,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE CVT PREMIUM- 2025 - XAM,Attrage,ATTRAGE CVT PREMIUM- 2025 - XAM,Other,2025,,490000000,1,Available,xám,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE MT - 2025 - XÁM- XE MỚI 100%,Attrage,ATTRAGE MT - 2025 - XÁM- XE MỚI 100%,Other,2025,,380000000,1,Available,xám,,,12,5,Petrol,Manual
+MITSUBISHI ATTRAGE MT - 2025 - TRẮNG - XE MỚI 100%,Attrage,ATTRAGE MT - 2025 - TRẮNG - XE MỚI 100%,Other,2025,,380000000,1,Available,White,,,12,5,Petrol,Manual
+MITSUBISHI ATTRAGE CVT PREMIUM- 2025 - TRANG,Attrage,ATTRAGE CVT PREMIUM- 2025 - TRANG,Other,2025,,490000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA YARIS CROSS 1.5V 2025,Yaris Cross,YARIS CROSS 1.5V 2025,Other,2025,,650000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA INNOVA CROSS HEV 2025,Innova,INNOVA CROSS HEV 2025,Other,2025,,1005000000,1,Available,,,,12,5,hybrid,số tự động
+HYUNDAI ACCENT 1.5 MT 2024,Accent,ACCENT 1.5 MT 2024,Other,2024,,439000000,1,Available,,,,12,5,Petrol,Manual
+TOYOTA YARIS CROSS 1.5V 2025,Yaris Cross,YARIS CROSS 1.5V 2025,Other,2025,,650000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA INNOVA CROSS HEV 2025,Innova,INNOVA CROSS HEV 2025,Other,2025,,1005000000,1,Available,,,,12,5,hybrid,số tự động
+HYUNDAI ACCENT 1.5 MT 2024,Accent,ACCENT 1.5 MT 2024,Other,2024,,439000000,1,Available,,,,12,5,Petrol,Manual
+ MITSUBISHI XPANDER AT PREMIUM 2024,Xpander,XPANDER AT PREMIUM 2024,Other,2024,,658000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI ATTRAGE CVT 1.2L MIVEC 2024,Attrage,ATTRAGE CVT 1.2L MIVEC 2024,Other,2024,,465000000,1,Available,,,,12,5,Petrol,số tự động
+MITSUBISHI XPANDER CROSS 1.5L MIVEC 2024,Xpander Cross,XPANDER CROSS 1.5L MIVEC 2024,Other,2024,,698000000,1,Available,cam,,,12,5,Petrol,số tự động
+MITSUBISHI XFORCE GLX 1.5L MIVEC 2024,Xforce ,XFORCE GLX 1.5L MIVEC 2024,Other,2024,,599000000,1,Available,White,,,12,5,Petrol,số tự động
+MITSUBISHI PAJERO  D 4X4 AT Diesel 2.4L MIVEC 2024,Pajero Sport,PAJERO D 4X4 AT Diesel 2.4L MIVEC 2024,Other,2024,,1365000000,1,Available,White,,,12,5,Diesel,số tự động
+MITSUBISHI PAJERO  D 4X2 AT Diesel 2.4L MIVEC 2024,Pajero Sport,PAJERO D 4X2 AT Diesel 2.4L MIVEC 2024,Other,2024,,1130000000,1,Available,White,,,12,5,Diesel,số tự động
+MITSUBISHI ATTRAGE CVT PREMIUM 1.2L MIVEC 2024,Attrage,ATTRAGE CVT PREMIUM 1.2L MIVEC 2024,Other,2024,,490000000,1,Available,White,,,12,5,Petrol,số tự động
+FORD EVEREST PLATINUM 2025,Everest,EVEREST PLATINUM 2025,Other,2025,,1545000000,1,Available,,,,12,5,Diesel,số tự động
+MITSUBISHI ATTRAGE MT 1.2L MIVEC 2024,Attrage,ATTRAGE MT 1.2L MIVEC 2024,Other,2024,,380000000,1,Available,White,,,12,5,Petrol,Manual
+VOLVO V60 CROSS COUNTRY 2024,V60,V60 CROSS COUNTRY 2024,Other,2024,,2690000000,1,Available,Black,,,12,5,Petrol,số tự động
+TOYOTA VIOS 1.5G 2025 ,Vios,VIOS 1.5G 2025,Other,2025,,545000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA VIOS 1.5 ECVT 2025,Vios,VIOS 1.5 ECVT 2025,Other,2025,,488000000,1,Available,,,,12,5,Petrol,số tự động
+VOLVO V60 CROSS COUNTRY 2024,V60,V60 CROSS COUNTRY 2024,Other,2024,,2690000000,1,Available,Black,,,12,5,Petrol,số tự động
+TOYOTA VIOS 1.5G 2025 ,Vios,VIOS 1.5G 2025,Other,2025,,545000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA VIOS 1.5 ECVT 2025,Vios,VIOS 1.5 ECVT 2025,Other,2025,,488000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA VIOS 1.5MT 2025,Vios,VIOS 1.5MT 2025,Other,2025,,458000000,1,Available,,,,12,5,Petrol,Manual
+TOYOTA COROLLA CROSS 1.8V 2025,Corolla Cross,COROLLA CROSS 1.8V 2025,Other,2025,,820000000,1,Available,,,,12,5,Petrol,số tự động
+TOYOTA COROLLA CROSS 1.8HEV 2025,Corolla Cross,COROLLA CROSS 1.8HEV 2025,Other,2025,,905000000,1,Available,,,,12,5,hybrid,số tự động
+TOYOTA CAMRY 2.5 HEV TOP 2025,Camry,CAMRY 2.5 HEV TOP 2025,Other,2025,,1530000000,1,Available,,,,12,5,hybrid,số tự động
+TOYOTA CAMRY 2.5 HEV MID 2025,Camry,CAMRY 2.5 HEV MID 2025,Other,2025,,1460000000,1,Available,,,,12,5,hybrid,số tự động
+TOYOTA CAMRY 2.0Q 2025,Camry,CAMRY 2.0Q 2025,Other,2025,,1220000000,1,Available,,,,12,5,Petrol,số tự động
+VOLVO EC40 2024,XC40,EC40 2024,Other,2024,,1739000000,1,Available,xanh,,,12,5,Electric,số tự động
+VOLVO PLUG-IN HYBRID XC90 2024,XC90,PLUG-IN HYBRID XC90 2024,Other,2024,,4370000000,1,Available,xanh,,,12,5,plug-in hybrid ,số tự động
+VOLVO PLUG-IN HYBRID XC60 2024,XC60,PLUG-IN HYBRID XC60 2024,Other,2024,,2750000000,1,Available,Red,,,12,5,plug-in hybrid ,số tự động
+VOLVO PLUG-IN HYBRID S90 2024,S90,PLUG-IN HYBRID S90 2024,Other,2024,,2750000000,1,Available,nâu,,,12,5,plug-in hybrid ,số tự động
+VOLVO XC60 2024,XC60,XC60 2024,Other,2024,,2279000000,1,Available,White,,,12,5,hybrid,số tự động
+VOLVO XC40 2024,XC40,XC40 2024,Other,2024,,1820000000,1,Available,bạc,,,12,5,hybrid,số tự động
+VOLVO PLUG-IN HYBRID S90 2024,S90,PLUG-IN HYBRID S90 2024,Other,2024,,2750000000,1,Available,nâu,,,12,5,plug-in hybrid ,số tự động
+VOLVO XC60 2024,XC60,XC60 2024,Other,2024,,2279000000,1,Available,White,,,12,5,hybrid,số tự động
+VOLVO XC40 2024,XC40,XC40 2024,Other,2024,,1820000000,1,Available,bạc,,,12,5,hybrid,số tự động
+VOLVO S90 2024,S90,S90 2024,Other,2024,,2269000000,1,Available,nâu,,,12,5,hybrid,số tự động
+TOYOTA CAMRY 2.0Q 2025,Camry,CAMRY 2.0Q 2025,Other,2025,,1220000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA CAMRY HEV TOP CE 2025,Camry,CAMRY HEV TOP CE 2025,Other,2025,,1542000000,1,Available,Red,,,12,5,hybrid,số tự động
+TOYOTA CAMRY 2.5HEV MID 2025,Camry,CAMRY 2.5HEV MID 2025,Other,2025,,1460000000,1,Available,xám,,,12,5,plug-in hybrid ,số tự động
+TOYOTA WIGO E 1.2 MT 2025,Wigo,WIGO E 1.2 MT 2025,Other,2025,,360000000,1,Available,Red,,,12,5,Petrol,Manual
+TOYOTA WIGO 1.2 G 2025,Wigo,WIGO 1.2 G 2025,Other,2025,,405000000,1,Available,Red,,,12,5,Petrol,số tự động
+TOYOTA COROLLA ALTIS 1.8G 2025,Corolla Altis,COROLLA ALTIS 1.8G 2025,Other,2025,,725000000,1,Available,xanh,,,12,5,Petrol,số tự động
+TOYOTA COROLLA ALTIS 1.8V 2025,Corolla Altis,COROLLA ALTIS 1.8V 2025,Other,2025,,780000000,1,Available,xanh,,,12,5,Petrol,số tự động
+TOYOTA COROLLA ALTIS 1.8HEV 2025,Corolla Altis,COROLLA ALTIS 1.8HEV 2025,Other,2025,,870000000,1,Available,xanh,,,12,5,plug-in hybrid ,số tự động
+TOYOTA RAIZE 2025,Raize,RAIZE 2025,Other,2025,,498000000,1,Available,xanh,,,12,5,Petrol,số tự động
+TOYOTA COROLLA CROSS 1.8V 2025,Corolla Cross,COROLLA CROSS 1.8V 2025,Other,2025,,820000000,1,Available,White,,,12,5,Petrol,số tự động
+TOYOTA COROLLA CROSS 1.8HEV 2025,Corolla Cross,COROLLA CROSS 1.8HEV 2025,Other,2025,,905000000,1,Available,White,,,12,5,plug-in hybrid ,số tự động

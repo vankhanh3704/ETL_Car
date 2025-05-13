@@ -1,0 +1,431 @@
+2025-05-13 14:37:02,694 - INFO - Thử cào dữ liệu tĩnh...
+2025-05-13 14:37:02,694 - INFO - Cào dữ liệu từ: https://carpla.vn/mua-xe/xe-moi
+2025-05-13 14:37:03,719 - INFO - Status code: 200
+2025-05-13 14:37:03,745 - INFO - Không tìm thấy xe, thử dùng Selenium...
+2025-05-13 14:37:03,745 - INFO - Chuyển sang cào dữ liệu động với Selenium...
+2025-05-13 14:37:03,745 - INFO - ====== WebDriver manager ======
+2025-05-13 14:37:04,549 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-13 14:38:19,761 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-13 14:40:50,044 - INFO - Driver [/Users/hoangkhanhvan/.wdm/drivers/chromedriver/mac64/136.0.7103.92/chromedriver-mac-arm64/chromedriver] found in cache
+2025-05-13 14:40:59,919 - INFO - Đã cào 0 xe, lưu tại data/raw/cars.json
+2025-05-13 14:46:17,740 - INFO - Thử cào dữ liệu tĩnh...
+2025-05-13 14:46:17,740 - INFO - Cào dữ liệu từ: https://carpla.vn/mua-xe/xe-moi
+2025-05-13 14:46:18,854 - INFO - Status code: 200
+2025-05-13 14:46:18,901 - INFO - Không tìm thấy xe, thử dùng Selenium...
+2025-05-13 14:46:18,901 - INFO - Chuyển sang cào dữ liệu động với Selenium...
+2025-05-13 14:46:18,901 - INFO - ====== WebDriver manager ======
+2025-05-13 14:46:19,119 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-13 14:46:19,218 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-13 14:46:19,320 - INFO - Driver [/Users/hoangkhanhvan/.wdm/drivers/chromedriver/mac64/136.0.7103.92/chromedriver-mac-arm64/chromedriver] found in cache
+2025-05-13 14:46:34,858 - INFO - Đã cào 0 xe, lưu tại data/raw/cars.json
+2025-05-13 14:49:55,055 - INFO - Thử cào dữ liệu tĩnh...
+2025-05-13 14:49:55,055 - INFO - Cào dữ liệu từ: https://carpla.vn/mua-xe/xe-moi
+2025-05-13 14:49:55,914 - INFO - Status code: 200
+2025-05-13 14:49:55,942 - INFO - Không tìm thấy xe, thử dùng Selenium...
+2025-05-13 14:49:55,942 - INFO - Chuyển sang cào dữ liệu động với Selenium...
+2025-05-13 14:49:55,942 - INFO - ====== WebDriver manager ======
+2025-05-13 14:49:56,211 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-13 14:49:56,330 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-13 14:49:56,512 - INFO - Driver [/Users/hoangkhanhvan/.wdm/drivers/chromedriver/mac64/136.0.7103.92/chromedriver-mac-arm64/chromedriver] found in cache
+2025-05-13 14:50:11,422 - INFO - Đã cào 0 xe, lưu tại data/raw/cars.json
+2025-05-13 14:53:49,129 - INFO - ====== WebDriver manager ======
+2025-05-13 14:53:49,305 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-13 14:55:04,514 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-13 14:55:04,801 - INFO - Driver [/Users/hoangkhanhvan/.wdm/drivers/chromedriver/mac64/136.0.7103.92/chromedriver-mac-arm64/chromedriver] found in cache
+2025-05-13 14:55:12,721 - INFO - Cào dữ liệu từ: https://carpla.vn/mua-xe/xe-moi
+2025-05-13 14:55:12,821 - INFO - Không tìm thấy xe trong trang.
+2025-05-13 14:55:12,915 - INFO - Đã cào 0 xe, lưu tại data/raw/cars.json
+2025-05-13 16:48:41,216 - INFO - API Status code: 200 at offset 1
+2025-05-13 16:48:41,217 - INFO - Đã xử lý offset 1
+2025-05-13 16:48:47,316 - INFO - API Status code: 200 at offset 13
+2025-05-13 16:48:47,317 - INFO - Đã xử lý offset 13
+2025-05-13 16:48:50,884 - INFO - API Status code: 200 at offset 25
+2025-05-13 16:48:50,887 - INFO - Đã xử lý offset 25
+2025-05-13 16:48:59,997 - INFO - API Status code: 200 at offset 37
+2025-05-13 16:48:59,998 - INFO - Đã xử lý offset 37
+2025-05-13 16:49:10,129 - INFO - API Status code: 200 at offset 49
+2025-05-13 16:49:10,131 - INFO - Đã xử lý offset 49
+2025-05-13 16:49:18,262 - INFO - API Status code: 200 at offset 61
+2025-05-13 16:49:18,266 - INFO - Đã xử lý offset 61
+2025-05-13 16:49:23,386 - INFO - API Status code: 200 at offset 73
+2025-05-13 16:49:23,387 - INFO - Đã xử lý offset 73
+2025-05-13 16:49:32,500 - INFO - API Status code: 200 at offset 85
+2025-05-13 16:49:32,502 - INFO - Đã xử lý offset 85
+2025-05-13 16:49:41,620 - INFO - API Status code: 200 at offset 97
+2025-05-13 16:49:41,622 - INFO - Đã xử lý offset 97
+2025-05-13 16:49:47,893 - INFO - API Status code: 200 at offset 109
+2025-05-13 16:49:47,894 - INFO - Đã xử lý offset 109
+2025-05-13 16:49:56,039 - INFO - API Status code: 200 at offset 121
+2025-05-13 16:49:56,041 - INFO - Đã xử lý offset 121
+2025-05-13 16:50:01,151 - INFO - API Status code: 200 at offset 133
+2025-05-13 16:50:01,153 - INFO - Đã xử lý offset 133
+2025-05-13 16:50:08,274 - INFO - API Status code: 200 at offset 145
+2025-05-13 16:50:08,275 - INFO - Đã xử lý offset 145
+2025-05-13 16:50:11,369 - INFO - API Status code: 200 at offset 157
+2025-05-13 16:50:11,371 - INFO - Đã xử lý offset 157
+2025-05-13 16:50:16,504 - INFO - API Status code: 200 at offset 169
+2025-05-13 16:50:16,506 - INFO - Đã xử lý offset 169
+2025-05-13 16:50:25,614 - INFO - API Status code: 200 at offset 181
+2025-05-13 16:50:25,616 - INFO - Đã xử lý offset 181
+2025-05-13 16:50:28,723 - INFO - API Status code: 200 at offset 193
+2025-05-13 16:50:28,724 - INFO - Đã xử lý offset 193
+2025-05-13 16:50:34,842 - INFO - API Status code: 200 at offset 205
+2025-05-13 16:50:34,844 - INFO - Đã xử lý offset 205
+2025-05-13 16:50:37,948 - INFO - API Status code: 200 at offset 217
+2025-05-13 16:50:37,949 - INFO - Đã xử lý offset 217
+2025-05-13 16:50:41,055 - INFO - API Status code: 200 at offset 229
+2025-05-13 16:50:41,056 - INFO - Đã xử lý offset 229
+2025-05-13 16:50:50,881 - INFO - API Status code: 200 at offset 241
+2025-05-13 16:50:50,888 - INFO - Đã xử lý offset 241
+2025-05-13 16:50:55,003 - INFO - API Status code: 200 at offset 253
+2025-05-13 16:50:55,004 - INFO - Đã xử lý offset 253
+2025-05-13 16:51:04,127 - INFO - API Status code: 200 at offset 265
+2025-05-13 16:51:04,129 - INFO - Đã xử lý offset 265
+2025-05-13 16:51:08,244 - INFO - API Status code: 200 at offset 277
+2025-05-13 16:51:08,247 - INFO - Đã xử lý offset 277
+2025-05-13 16:51:15,359 - INFO - API Status code: 200 at offset 289
+2025-05-13 16:51:15,361 - INFO - Đã xử lý offset 289
+2025-05-13 16:51:20,472 - INFO - API Status code: 200 at offset 301
+2025-05-13 16:51:20,477 - INFO - Đã xử lý offset 301
+2025-05-13 16:51:28,581 - INFO - API Status code: 200 at offset 313
+2025-05-13 16:51:28,584 - INFO - Đã xử lý offset 313
+2025-05-13 16:51:37,705 - INFO - API Status code: 200 at offset 325
+2025-05-13 16:51:37,707 - INFO - Đã xử lý offset 325
+2025-05-13 16:51:46,862 - INFO - API Status code: 200 at offset 337
+2025-05-13 16:51:46,866 - INFO - Đã xử lý offset 337
+2025-05-13 16:51:56,975 - INFO - API Status code: 200 at offset 349
+2025-05-13 16:51:56,977 - INFO - Đã xử lý offset 349
+2025-05-13 16:52:06,089 - INFO - API Status code: 200 at offset 361
+2025-05-13 16:52:06,096 - INFO - Đã xử lý offset 361
+2025-05-13 16:52:15,209 - INFO - API Status code: 200 at offset 373
+2025-05-13 16:52:15,211 - INFO - Đã xử lý offset 373
+2025-05-13 16:52:19,320 - INFO - API Status code: 200 at offset 385
+2025-05-13 16:52:19,322 - INFO - Đã xử lý offset 385
+2025-05-13 16:52:24,426 - INFO - API Status code: 200 at offset 397
+2025-05-13 16:52:24,427 - INFO - Đã xử lý offset 397
+2025-05-13 16:52:31,535 - INFO - API Status code: 200 at offset 409
+2025-05-13 16:52:31,538 - INFO - Đã xử lý offset 409
+2025-05-13 16:52:40,641 - INFO - API Status code: 200 at offset 421
+2025-05-13 16:52:40,644 - INFO - Đã xử lý offset 421
+2025-05-13 16:52:44,744 - INFO - API Status code: 200 at offset 433
+2025-05-13 16:52:44,745 - INFO - Đã xử lý offset 433
+2025-05-13 16:52:47,864 - INFO - API Status code: 200 at offset 445
+2025-05-13 16:52:47,867 - INFO - Đã xử lý offset 445
+2025-05-13 16:52:56,002 - INFO - API Status code: 200 at offset 457
+2025-05-13 16:52:56,004 - INFO - Đã xử lý offset 457
+2025-05-13 16:53:02,136 - INFO - API Status code: 200 at offset 469
+2025-05-13 16:53:02,138 - INFO - Đã xử lý offset 469
+2025-05-13 16:53:05,244 - INFO - API Status code: 200 at offset 481
+2025-05-13 16:53:05,245 - INFO - Đã xử lý offset 481
+2025-05-13 16:53:08,356 - INFO - API Status code: 200 at offset 493
+2025-05-13 16:53:08,358 - INFO - Đã xử lý offset 493
+2025-05-13 16:53:11,461 - INFO - API Status code: 200 at offset 505
+2025-05-13 16:53:11,463 - INFO - Đã xử lý offset 505
+2025-05-13 16:53:19,572 - INFO - API Status code: 200 at offset 517
+2025-05-13 16:53:19,575 - INFO - Đã xử lý offset 517
+2025-05-13 16:53:24,684 - INFO - API Status code: 200 at offset 529
+2025-05-13 16:53:24,686 - INFO - Đã xử lý offset 529
+2025-05-13 16:53:27,786 - INFO - API Status code: 200 at offset 541
+2025-05-13 16:53:27,787 - INFO - Đã xử lý offset 541
+2025-05-13 16:53:33,889 - INFO - API Status code: 200 at offset 553
+2025-05-13 16:53:33,891 - INFO - Đã xử lý offset 553
+2025-05-13 16:53:40,994 - INFO - API Status code: 200 at offset 565
+2025-05-13 16:53:40,998 - INFO - Đã xử lý offset 565
+2025-05-13 16:53:49,022 - INFO - Đã cào 720 xe, lưu tại data/raw/cars.json
+2025-05-13 17:02:47,720 - INFO - API Status code: 200 at offset 1
+2025-05-13 17:02:47,722 - INFO - Đã xử lý offset 1
+2025-05-13 17:02:51,836 - INFO - API Status code: 200 at offset 13
+2025-05-13 17:02:51,838 - INFO - Đã xử lý offset 13
+2025-05-13 17:03:01,961 - INFO - API Status code: 200 at offset 25
+2025-05-13 17:03:01,966 - INFO - Đã xử lý offset 25
+2025-05-13 17:03:05,076 - INFO - API Status code: 200 at offset 37
+2025-05-13 17:03:05,077 - INFO - Đã xử lý offset 37
+2025-05-13 17:03:13,193 - INFO - API Status code: 200 at offset 49
+2025-05-13 17:03:13,195 - INFO - Đã xử lý offset 49
+2025-05-13 17:03:21,316 - INFO - API Status code: 200 at offset 61
+2025-05-13 17:03:21,318 - INFO - Đã xử lý offset 61
+2025-05-13 17:03:24,432 - INFO - API Status code: 200 at offset 73
+2025-05-13 17:03:24,434 - INFO - Đã xử lý offset 73
+2025-05-13 17:03:29,531 - INFO - API Status code: 200 at offset 85
+2025-05-13 17:03:29,533 - INFO - Đã xử lý offset 85
+2025-05-13 17:03:39,648 - INFO - API Status code: 200 at offset 97
+2025-05-13 17:03:39,652 - INFO - Đã xử lý offset 97
+2025-05-13 17:03:42,759 - INFO - API Status code: 200 at offset 109
+2025-05-13 17:03:42,766 - INFO - Đã xử lý offset 109
+2025-05-13 17:03:50,884 - INFO - API Status code: 200 at offset 121
+2025-05-13 17:03:50,887 - INFO - Đã xử lý offset 121
+2025-05-13 17:04:00,006 - INFO - API Status code: 200 at offset 133
+2025-05-13 17:04:00,008 - INFO - Đã xử lý offset 133
+2025-05-13 17:04:03,111 - INFO - API Status code: 200 at offset 145
+2025-05-13 17:04:03,114 - INFO - Đã xử lý offset 145
+2025-05-13 17:04:09,223 - INFO - API Status code: 200 at offset 157
+2025-05-13 17:04:09,226 - INFO - Đã xử lý offset 157
+2025-05-13 17:04:19,365 - INFO - API Status code: 200 at offset 169
+2025-05-13 17:04:19,368 - INFO - Đã xử lý offset 169
+2025-05-13 17:04:25,466 - INFO - API Status code: 200 at offset 181
+2025-05-13 17:04:25,468 - INFO - Đã xử lý offset 181
+2025-05-13 17:04:30,582 - INFO - API Status code: 200 at offset 193
+2025-05-13 17:04:30,584 - INFO - Đã xử lý offset 193
+2025-05-13 17:04:38,700 - INFO - API Status code: 200 at offset 205
+2025-05-13 17:04:38,703 - INFO - Đã xử lý offset 205
+2025-05-13 17:04:47,805 - INFO - API Status code: 200 at offset 217
+2025-05-13 17:04:47,808 - INFO - Đã xử lý offset 217
+2025-05-13 17:04:53,913 - INFO - API Status code: 200 at offset 229
+2025-05-13 17:04:53,914 - INFO - Đã xử lý offset 229
+2025-05-13 17:04:57,027 - INFO - API Status code: 200 at offset 241
+2025-05-13 17:04:57,029 - INFO - Đã xử lý offset 241
+2025-05-13 17:05:07,141 - INFO - API Status code: 200 at offset 253
+2025-05-13 17:05:07,144 - INFO - Đã xử lý offset 253
+2025-05-13 17:05:13,241 - INFO - API Status code: 200 at offset 265
+2025-05-13 17:05:13,244 - INFO - Đã xử lý offset 265
+2025-05-13 17:05:22,351 - INFO - API Status code: 200 at offset 277
+2025-05-13 17:05:22,352 - INFO - Đã xử lý offset 277
+2025-05-13 17:05:31,524 - INFO - API Status code: 200 at offset 289
+2025-05-13 17:05:31,526 - INFO - Đã xử lý offset 289
+2025-05-13 17:05:40,675 - INFO - API Status code: 200 at offset 301
+2025-05-13 17:05:40,677 - INFO - Đã xử lý offset 301
+2025-05-13 17:05:44,779 - INFO - API Status code: 200 at offset 313
+2025-05-13 17:05:44,781 - INFO - Đã xử lý offset 313
+2025-05-13 17:05:50,895 - INFO - API Status code: 200 at offset 325
+2025-05-13 17:05:50,900 - INFO - Đã xử lý offset 325
+2025-05-13 17:05:58,003 - INFO - API Status code: 200 at offset 337
+2025-05-13 17:05:58,004 - INFO - Đã xử lý offset 337
+2025-05-13 17:06:05,110 - INFO - API Status code: 200 at offset 349
+2025-05-13 17:06:05,113 - INFO - Đã xử lý offset 349
+2025-05-13 17:06:10,220 - INFO - API Status code: 200 at offset 361
+2025-05-13 17:06:10,221 - INFO - Đã xử lý offset 361
+2025-05-13 17:06:18,323 - INFO - API Status code: 200 at offset 373
+2025-05-13 17:06:18,326 - INFO - Đã xử lý offset 373
+2025-05-13 17:06:23,427 - INFO - API Status code: 200 at offset 385
+2025-05-13 17:06:23,429 - INFO - Đã xử lý offset 385
+2025-05-13 17:06:28,534 - INFO - API Status code: 200 at offset 397
+2025-05-13 17:06:28,537 - INFO - Đã xử lý offset 397
+2025-05-13 17:06:34,648 - INFO - API Status code: 200 at offset 409
+2025-05-13 17:06:34,651 - INFO - Đã xử lý offset 409
+2025-05-13 17:06:41,755 - INFO - API Status code: 200 at offset 421
+2025-05-13 17:06:41,757 - INFO - Đã xử lý offset 421
+2025-05-13 17:06:48,879 - INFO - API Status code: 200 at offset 433
+2025-05-13 17:06:48,880 - INFO - Đã xử lý offset 433
+2025-05-13 17:06:57,007 - INFO - API Status code: 200 at offset 445
+2025-05-13 17:06:57,011 - INFO - Đã xử lý offset 445
+2025-05-13 17:07:00,152 - INFO - API Status code: 200 at offset 457
+2025-05-13 17:07:00,155 - INFO - Đã xử lý offset 457
+2025-05-13 17:07:08,275 - INFO - API Status code: 200 at offset 469
+2025-05-13 17:07:08,278 - INFO - Đã xử lý offset 469
+2025-05-13 17:07:15,392 - INFO - API Status code: 200 at offset 481
+2025-05-13 17:07:15,395 - INFO - Đã xử lý offset 481
+2025-05-13 17:07:19,510 - INFO - API Status code: 200 at offset 493
+2025-05-13 17:07:19,512 - INFO - Đã xử lý offset 493
+2025-05-13 17:07:26,611 - INFO - API Status code: 200 at offset 505
+2025-05-13 17:07:26,613 - INFO - Đã xử lý offset 505
+2025-05-13 17:07:30,737 - INFO - API Status code: 200 at offset 517
+2025-05-13 17:07:30,738 - INFO - Đã xử lý offset 517
+2025-05-13 17:07:39,861 - INFO - API Status code: 200 at offset 529
+2025-05-13 17:07:39,863 - INFO - Đã xử lý offset 529
+2025-05-13 17:07:45,977 - INFO - API Status code: 200 at offset 541
+2025-05-13 17:07:45,979 - INFO - Đã xử lý offset 541
+2025-05-13 17:07:52,098 - INFO - API Status code: 200 at offset 553
+2025-05-13 17:07:52,101 - INFO - Đã xử lý offset 553
+2025-05-13 17:08:01,209 - INFO - API Status code: 200 at offset 565
+2025-05-13 17:08:01,211 - INFO - Đã xử lý offset 565
+2025-05-13 17:08:07,228 - INFO - Đã cào 720 xe, lưu tại data/raw/cars.json
+2025-05-13 17:35:01,928 - INFO - API Status code: 200 at offset 1
+2025-05-13 17:35:01,930 - INFO - Đã xử lý offset 1
+2025-05-13 17:35:09,048 - INFO - API Status code: 200 at offset 13
+2025-05-13 17:35:09,051 - INFO - Đã xử lý offset 13
+2025-05-13 17:35:15,163 - INFO - API Status code: 200 at offset 25
+2025-05-13 17:35:15,166 - INFO - Đã xử lý offset 25
+2025-05-13 17:35:23,281 - INFO - API Status code: 200 at offset 37
+2025-05-13 17:35:23,284 - INFO - Đã xử lý offset 37
+2025-05-13 17:35:33,408 - INFO - API Status code: 200 at offset 49
+2025-05-13 17:35:33,412 - INFO - Đã xử lý offset 49
+2025-05-13 17:35:37,951 - INFO - API Status code: 200 at offset 61
+2025-05-13 17:35:37,953 - INFO - Đã xử lý offset 61
+2025-05-13 17:35:45,051 - INFO - API Status code: 200 at offset 73
+2025-05-13 17:35:45,054 - INFO - Đã xử lý offset 73
+2025-05-13 17:35:51,144 - INFO - API Status code: 200 at offset 85
+2025-05-13 17:35:51,147 - INFO - Đã xử lý offset 85
+2025-05-13 17:35:58,241 - INFO - API Status code: 200 at offset 97
+2025-05-13 17:35:58,244 - INFO - Đã xử lý offset 97
+2025-05-13 17:36:08,344 - INFO - API Status code: 200 at offset 109
+2025-05-13 17:36:08,345 - INFO - Đã xử lý offset 109
+2025-05-13 17:36:13,466 - INFO - API Status code: 200 at offset 121
+2025-05-13 17:36:13,469 - INFO - Đã xử lý offset 121
+2025-05-13 17:36:22,609 - INFO - API Status code: 200 at offset 133
+2025-05-13 17:36:22,612 - INFO - Đã xử lý offset 133
+2025-05-13 17:36:27,711 - INFO - API Status code: 200 at offset 145
+2025-05-13 17:36:27,713 - INFO - Đã xử lý offset 145
+2025-05-13 17:36:30,820 - INFO - API Status code: 200 at offset 157
+2025-05-13 17:36:30,822 - INFO - Đã xử lý offset 157
+2025-05-13 17:36:34,931 - INFO - API Status code: 200 at offset 169
+2025-05-13 17:36:34,936 - INFO - Đã xử lý offset 169
+2025-05-13 17:36:43,046 - INFO - API Status code: 200 at offset 181
+2025-05-13 17:36:43,048 - INFO - Đã xử lý offset 181
+2025-05-13 17:36:51,149 - INFO - API Status code: 200 at offset 193
+2025-05-13 17:36:51,152 - INFO - Đã xử lý offset 193
+2025-05-13 17:36:56,239 - INFO - API Status code: 200 at offset 205
+2025-05-13 17:36:56,240 - INFO - Đã xử lý offset 205
+2025-05-13 17:37:03,340 - INFO - API Status code: 200 at offset 217
+2025-05-13 17:37:03,343 - INFO - Đã xử lý offset 217
+2025-05-13 17:37:07,440 - INFO - API Status code: 200 at offset 229
+2025-05-13 17:37:07,441 - INFO - Đã xử lý offset 229
+2025-05-13 17:37:14,949 - INFO - API Status code: 200 at offset 241
+2025-05-13 17:37:14,952 - INFO - Đã xử lý offset 241
+2025-05-13 17:37:22,054 - INFO - API Status code: 200 at offset 253
+2025-05-13 17:37:22,056 - INFO - Đã xử lý offset 253
+2025-05-13 17:37:25,154 - INFO - API Status code: 200 at offset 265
+2025-05-13 17:37:25,157 - INFO - Đã xử lý offset 265
+2025-05-13 17:37:29,250 - INFO - API Status code: 200 at offset 277
+2025-05-13 17:37:29,252 - INFO - Đã xử lý offset 277
+2025-05-13 17:37:38,348 - INFO - API Status code: 200 at offset 289
+2025-05-13 17:37:38,349 - INFO - Đã xử lý offset 289
+2025-05-13 17:37:45,467 - INFO - API Status code: 200 at offset 301
+2025-05-13 17:37:45,470 - INFO - Đã xử lý offset 301
+2025-05-13 17:37:54,576 - INFO - API Status code: 200 at offset 313
+2025-05-13 17:37:54,579 - INFO - Đã xử lý offset 313
+2025-05-13 17:37:58,676 - INFO - API Status code: 200 at offset 325
+2025-05-13 17:37:58,679 - INFO - Đã xử lý offset 325
+2025-05-13 17:38:02,783 - INFO - API Status code: 200 at offset 337
+2025-05-13 17:38:02,785 - INFO - Đã xử lý offset 337
+2025-05-13 17:38:07,893 - INFO - API Status code: 200 at offset 349
+2025-05-13 17:38:07,895 - INFO - Đã xử lý offset 349
+2025-05-13 17:38:16,999 - INFO - API Status code: 200 at offset 361
+2025-05-13 17:38:17,002 - INFO - Đã xử lý offset 361
+2025-05-13 17:38:27,108 - INFO - API Status code: 200 at offset 373
+2025-05-13 17:38:27,110 - INFO - Đã xử lý offset 373
+2025-05-13 17:38:32,208 - INFO - API Status code: 200 at offset 385
+2025-05-13 17:38:32,210 - INFO - Đã xử lý offset 385
+2025-05-13 17:38:35,326 - INFO - API Status code: 200 at offset 397
+2025-05-13 17:38:35,329 - INFO - Đã xử lý offset 397
+2025-05-13 17:38:41,424 - INFO - API Status code: 200 at offset 409
+2025-05-13 17:38:41,425 - INFO - Đã xử lý offset 409
+2025-05-13 17:38:50,534 - INFO - API Status code: 200 at offset 421
+2025-05-13 17:38:50,537 - INFO - Đã xử lý offset 421
+2025-05-13 17:38:58,639 - INFO - API Status code: 200 at offset 433
+2025-05-13 17:38:58,641 - INFO - Đã xử lý offset 433
+2025-05-13 17:39:03,736 - INFO - API Status code: 200 at offset 445
+2025-05-13 17:39:03,739 - INFO - Đã xử lý offset 445
+2025-05-13 17:39:11,846 - INFO - API Status code: 200 at offset 457
+2025-05-13 17:39:11,848 - INFO - Đã xử lý offset 457
+2025-05-13 17:39:16,944 - INFO - API Status code: 200 at offset 469
+2025-05-13 17:39:16,947 - INFO - Đã xử lý offset 469
+2025-05-13 17:39:24,050 - INFO - API Status code: 200 at offset 481
+2025-05-13 17:39:24,052 - INFO - Đã xử lý offset 481
+2025-05-13 17:39:32,170 - INFO - API Status code: 200 at offset 493
+2025-05-13 17:39:32,173 - INFO - Đã xử lý offset 493
+2025-05-13 17:39:41,281 - INFO - API Status code: 200 at offset 505
+2025-05-13 17:39:41,283 - INFO - Đã xử lý offset 505
+2025-05-13 17:39:44,385 - INFO - API Status code: 200 at offset 517
+2025-05-13 17:39:44,387 - INFO - Đã xử lý offset 517
+2025-05-13 17:39:52,501 - INFO - API Status code: 200 at offset 529
+2025-05-13 17:39:52,504 - INFO - Đã xử lý offset 529
+2025-05-13 17:39:59,613 - INFO - API Status code: 200 at offset 541
+2025-05-13 17:39:59,615 - INFO - Đã xử lý offset 541
+2025-05-13 17:40:02,873 - INFO - API Status code: 200 at offset 553
+2025-05-13 17:40:02,876 - INFO - Đã xử lý offset 553
+2025-05-13 17:40:10,969 - INFO - API Status code: 200 at offset 565
+2025-05-13 17:40:10,973 - INFO - Đã xử lý offset 565
+2025-05-13 17:40:13,998 - INFO - Đã cào 720 xe, lưu tại /Users/hoangkhanhvan/Desktop/CarManagementProject_ETL/data/raw/cars.json
+2025-05-13 17:40:14,179 - INFO - package: mysql.connector.plugins
+2025-05-13 17:40:14,179 - INFO - plugin_name: caching_sha2_password
+2025-05-13 17:40:14,179 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-05-13 18:14:13,298 - INFO - API Status code: 200 at offset 1
+2025-05-13 18:14:13,300 - INFO - Đã xử lý offset 1
+2025-05-13 18:14:22,394 - INFO - API Status code: 200 at offset 13
+2025-05-13 18:14:22,397 - INFO - Đã xử lý offset 13
+2025-05-13 18:14:30,502 - INFO - API Status code: 200 at offset 25
+2025-05-13 18:14:30,503 - INFO - Đã xử lý offset 25
+2025-05-13 18:14:39,607 - INFO - API Status code: 200 at offset 37
+2025-05-13 18:14:39,609 - INFO - Đã xử lý offset 37
+2025-05-13 18:14:49,748 - INFO - API Status code: 200 at offset 49
+2025-05-13 18:14:49,750 - INFO - Đã xử lý offset 49
+2025-05-13 18:14:52,866 - INFO - API Status code: 200 at offset 61
+2025-05-13 18:14:52,868 - INFO - Đã xử lý offset 61
+2025-05-13 18:15:01,962 - INFO - API Status code: 200 at offset 73
+2025-05-13 18:15:01,963 - INFO - Đã xử lý offset 73
+2025-05-13 18:15:06,054 - INFO - API Status code: 200 at offset 85
+2025-05-13 18:15:06,056 - INFO - Đã xử lý offset 85
+2025-05-13 18:15:14,150 - INFO - API Status code: 200 at offset 97
+2025-05-13 18:15:14,151 - INFO - Đã xử lý offset 97
+2025-05-13 18:15:19,245 - INFO - API Status code: 200 at offset 109
+2025-05-13 18:15:19,246 - INFO - Đã xử lý offset 109
+2025-05-13 18:15:25,345 - INFO - API Status code: 200 at offset 121
+2025-05-13 18:15:25,346 - INFO - Đã xử lý offset 121
+2025-05-13 18:15:32,452 - INFO - API Status code: 200 at offset 133
+2025-05-13 18:15:32,453 - INFO - Đã xử lý offset 133
+2025-05-13 18:15:36,550 - INFO - API Status code: 200 at offset 145
+2025-05-13 18:15:36,551 - INFO - Đã xử lý offset 145
+2025-05-13 18:15:44,659 - INFO - API Status code: 200 at offset 157
+2025-05-13 18:15:44,660 - INFO - Đã xử lý offset 157
+2025-05-13 18:15:50,746 - INFO - API Status code: 200 at offset 169
+2025-05-13 18:15:50,748 - INFO - Đã xử lý offset 169
+2025-05-13 18:15:59,855 - INFO - API Status code: 200 at offset 181
+2025-05-13 18:15:59,856 - INFO - Đã xử lý offset 181
+2025-05-13 18:16:02,948 - INFO - API Status code: 200 at offset 193
+2025-05-13 18:16:02,949 - INFO - Đã xử lý offset 193
+2025-05-13 18:16:11,038 - INFO - API Status code: 200 at offset 205
+2025-05-13 18:16:11,040 - INFO - Đã xử lý offset 205
+2025-05-13 18:16:14,163 - INFO - API Status code: 200 at offset 217
+2025-05-13 18:16:14,164 - INFO - Đã xử lý offset 217
+2025-05-13 18:16:20,266 - INFO - API Status code: 200 at offset 229
+2025-05-13 18:16:20,268 - INFO - Đã xử lý offset 229
+2025-05-13 18:16:24,355 - INFO - API Status code: 200 at offset 241
+2025-05-13 18:16:24,356 - INFO - Đã xử lý offset 241
+2025-05-13 18:16:33,448 - INFO - API Status code: 200 at offset 253
+2025-05-13 18:16:33,449 - INFO - Đã xử lý offset 253
+2025-05-13 18:16:36,540 - INFO - API Status code: 200 at offset 265
+2025-05-13 18:16:36,542 - INFO - Đã xử lý offset 265
+2025-05-13 18:16:42,635 - INFO - API Status code: 200 at offset 277
+2025-05-13 18:16:42,637 - INFO - Đã xử lý offset 277
+2025-05-13 18:16:47,727 - INFO - API Status code: 200 at offset 289
+2025-05-13 18:16:47,729 - INFO - Đã xử lý offset 289
+2025-05-13 18:16:56,835 - INFO - API Status code: 200 at offset 301
+2025-05-13 18:16:56,836 - INFO - Đã xử lý offset 301
+2025-05-13 18:17:05,931 - INFO - API Status code: 200 at offset 313
+2025-05-13 18:17:05,932 - INFO - Đã xử lý offset 313
+2025-05-13 18:17:12,050 - INFO - API Status code: 200 at offset 325
+2025-05-13 18:17:12,051 - INFO - Đã xử lý offset 325
+2025-05-13 18:17:15,147 - INFO - API Status code: 200 at offset 337
+2025-05-13 18:17:15,149 - INFO - Đã xử lý offset 337
+2025-05-13 18:17:21,247 - INFO - API Status code: 200 at offset 349
+2025-05-13 18:17:21,248 - INFO - Đã xử lý offset 349
+2025-05-13 18:17:29,344 - INFO - API Status code: 200 at offset 361
+2025-05-13 18:17:29,345 - INFO - Đã xử lý offset 361
+2025-05-13 18:17:33,446 - INFO - API Status code: 200 at offset 373
+2025-05-13 18:17:33,447 - INFO - Đã xử lý offset 373
+2025-05-13 18:17:41,544 - INFO - API Status code: 200 at offset 385
+2025-05-13 18:17:41,545 - INFO - Đã xử lý offset 385
+2025-05-13 18:17:49,642 - INFO - API Status code: 200 at offset 397
+2025-05-13 18:17:49,644 - INFO - Đã xử lý offset 397
+2025-05-13 18:17:55,880 - INFO - API Status code: 200 at offset 409
+2025-05-13 18:17:55,881 - INFO - Đã xử lý offset 409
+2025-05-13 18:18:01,977 - INFO - API Status code: 200 at offset 421
+2025-05-13 18:18:01,978 - INFO - Đã xử lý offset 421
+2025-05-13 18:18:06,077 - INFO - API Status code: 200 at offset 433
+2025-05-13 18:18:06,078 - INFO - Đã xử lý offset 433
+2025-05-13 18:18:14,174 - INFO - API Status code: 200 at offset 445
+2025-05-13 18:18:14,176 - INFO - Đã xử lý offset 445
+2025-05-13 18:18:21,285 - INFO - API Status code: 200 at offset 457
+2025-05-13 18:18:21,286 - INFO - Đã xử lý offset 457
+2025-05-13 18:18:32,023 - INFO - API Status code: 200 at offset 469
+2025-05-13 18:18:32,025 - INFO - Đã xử lý offset 469
+2025-05-13 18:18:39,138 - INFO - API Status code: 200 at offset 481
+2025-05-13 18:18:39,149 - INFO - Đã xử lý offset 481
+2025-05-13 18:18:49,258 - INFO - API Status code: 200 at offset 493
+2025-05-13 18:18:49,259 - INFO - Đã xử lý offset 493
+2025-05-13 18:18:59,356 - INFO - API Status code: 200 at offset 505
+2025-05-13 18:18:59,358 - INFO - Đã xử lý offset 505
+2025-05-13 18:19:07,457 - INFO - API Status code: 200 at offset 517
+2025-05-13 18:19:07,460 - INFO - Đã xử lý offset 517
+2025-05-13 18:19:12,567 - INFO - API Status code: 200 at offset 529
+2025-05-13 18:19:12,569 - INFO - Đã xử lý offset 529
+2025-05-13 18:19:17,679 - INFO - API Status code: 200 at offset 541
+2025-05-13 18:19:17,683 - INFO - Đã xử lý offset 541
+2025-05-13 18:19:27,783 - INFO - API Status code: 200 at offset 553
+2025-05-13 18:19:27,786 - INFO - Đã xử lý offset 553
+2025-05-13 18:19:35,879 - INFO - API Status code: 200 at offset 565
+2025-05-13 18:19:35,880 - INFO - Đã xử lý offset 565
+2025-05-13 18:19:43,899 - INFO - Đã cào 720 xe, lưu tại /Users/hoangkhanhvan/Desktop/CarManagementProject_ETL/data/raw/cars_20250513_181943.json
+2025-05-13 18:19:44,620 - INFO - package: mysql.connector.plugins
+2025-05-13 18:19:44,621 - INFO - plugin_name: caching_sha2_password
+2025-05-13 18:19:44,622 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
